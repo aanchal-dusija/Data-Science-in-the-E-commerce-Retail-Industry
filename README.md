@@ -1,1 +1,2 @@
-# Data-Science-in-the-E-commerce-Retail-Industry
+# 501-project-template
+* include general information here for anyone trying to clone your repository and re-create your results
