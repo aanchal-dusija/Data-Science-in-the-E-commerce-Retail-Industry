@@ -1,0 +1,768 @@
+label,text,clean_text,Tweet_tokenized,Tweet_without_stop,Tweet_stemmed,Tweet_lemmatized
+fashiontrends,"What's the outfit tonight? 😏
+⁠
+Streaming Everywhere | Link in bio*⁠
+⁠
+#saturday #weekend #sexpositive #weekendmood #deephouse #techhouse #spotify #theeveningafter #lifestyle #fashiontrends #styleblogger #fashioninspo #fashion #style #model #painting #makeup #fashionblogger ","Whats the outfit tonight 
+
+Streaming Everywhere  Link in bio
+
+saturday weekend sexpositive weekendmood deephouse techhouse spotify theeveningafter lifestyle fashiontrends styleblogger fashioninspo fashion style model painting makeup fashionblogger ","['whats', 'the', 'outfit', 'tonight', 'streaming', 'everywhere', 'link', 'in', 'bio', 'saturday', 'weekend', 'sexpositive', 'weekendmood', 'deephouse', 'techhouse', 'spotify', 'theeveningafter', 'lifestyle', 'fashiontrends', 'styleblogger', 'fashioninspo', 'fashion', 'style', 'model', 'painting', 'makeup', 'fashionblogger', '']","['whats', 'outfit', 'tonight', 'streaming', 'everywhere', 'link', 'bio', 'saturday', 'weekend', 'sexpositive', 'weekendmood', 'deephouse', 'techhouse', 'spotify', 'theeveningafter', 'lifestyle', 'fashiontrends', 'styleblogger', 'fashioninspo', 'fashion', 'style', 'model', 'painting', 'makeup', 'fashionblogger', '']","['what', 'outfit', 'tonight', 'stream', 'everywher', 'link', 'bio', 'saturday', 'weekend', 'sexposit', 'weekendmood', 'deephous', 'techhous', 'spotifi', 'theeveningaft', 'lifestyl', 'fashiontrend', 'styleblogg', 'fashioninspo', 'fashion', 'style', 'model', 'paint', 'makeup', 'fashionblogg', '']","['whats', 'outfit', 'tonight', 'streaming', 'everywhere', 'link', 'bio', 'saturday', 'weekend', 'sexpositive', 'weekendmood', 'deephouse', 'techhouse', 'spotify', 'theeveningafter', 'lifestyle', 'fashiontrends', 'styleblogger', 'fashioninspo', 'fashion', 'style', 'model', 'painting', 'makeup', 'fashionblogger', '']"
+fashiontrends,"FESTIVE FEATHERS - #fashion #fashionable #fashionaddict #fashionblogger #fashionbloggers #fashiongram #fashionicon #fashioninspo #fashionista #fashionistas #fashionlove #fashionlovers #fashionpost #fashionstyle #fashiontrends #Feathers #Festive #insta...
+","FESTIVE FEATHERS  fashion fashionable fashionaddict fashionblogger fashionbloggers fashiongram fashionicon fashioninspo fashionista fashionistas fashionlove fashionlovers fashionpost fashionstyle fashiontrends Feathers Festive insta
+","['festive', 'feathers', 'fashion', 'fashionable', 'fashionaddict', 'fashionblogger', 'fashionbloggers', 'fashiongram', 'fashionicon', 'fashioninspo', 'fashionista', 'fashionistas', 'fashionlove', 'fashionlovers', 'fashionpost', 'fashionstyle', 'fashiontrends', 'feathers', 'festive', 'insta', '']","['festive', 'feathers', 'fashion', 'fashionable', 'fashionaddict', 'fashionblogger', 'fashionbloggers', 'fashiongram', 'fashionicon', 'fashioninspo', 'fashionista', 'fashionistas', 'fashionlove', 'fashionlovers', 'fashionpost', 'fashionstyle', 'fashiontrends', 'feathers', 'festive', 'insta', '']","['festiv', 'feather', 'fashion', 'fashion', 'fashionaddict', 'fashionblogg', 'fashionblogg', 'fashiongram', 'fashionicon', 'fashioninspo', 'fashionista', 'fashionista', 'fashionlov', 'fashionlov', 'fashionpost', 'fashionstyl', 'fashiontrend', 'feather', 'festiv', 'insta', '']","['festive', 'feather', 'fashion', 'fashionable', 'fashionaddict', 'fashionblogger', 'fashionbloggers', 'fashiongram', 'fashionicon', 'fashioninspo', 'fashionista', 'fashionistas', 'fashionlove', 'fashionlovers', 'fashionpost', 'fashionstyle', 'fashiontrends', 'feather', 'festive', 'insta', '']"
+fashiontrends,"Our classic cloud slides are the comfiest shoes around!
+Shop Kat's Cloud Slides today in all yoru fave colors! ☁️👟⁠
+⁠
+
+
+#minimal #heels #fashionrevolution #black #fashiontrends⁠ #summerfashion #fashioninspo #vintagefashion #glamour #cloudshoes #slippers ","Our classic cloud slides are the comfiest shoes around
+Shop Kats Cloud Slides today in all yoru fave colors 
+
+
+
+minimal heels fashionrevolution black fashiontrends summerfashion fashioninspo vintagefashion glamour cloudshoes slippers ","['our', 'classic', 'cloud', 'slides', 'are', 'the', 'comfiest', 'shoes', 'around', 'shop', 'kats', 'cloud', 'slides', 'today', 'in', 'all', 'yoru', 'fave', 'colors', 'minimal', 'heels', 'fashionrevolution', 'black', 'fashiontrends', 'summerfashion', 'fashioninspo', 'vintagefashion', 'glamour', 'cloudshoes', 'slippers', '']","['classic', 'cloud', 'slides', 'comfiest', 'shoes', 'around', 'shop', 'kats', 'cloud', 'slides', 'today', 'yoru', 'fave', 'colors', 'minimal', 'heels', 'fashionrevolution', 'black', 'fashiontrends', 'summerfashion', 'fashioninspo', 'vintagefashion', 'glamour', 'cloudshoes', 'slippers', '']","['classic', 'cloud', 'slide', 'comfiest', 'shoe', 'around', 'shop', 'kat', 'cloud', 'slide', 'today', 'yoru', 'fave', 'color', 'minim', 'heel', 'fashionrevolut', 'black', 'fashiontrend', 'summerfashion', 'fashioninspo', 'vintagefashion', 'glamour', 'cloudsho', 'slipper', '']","['classic', 'cloud', 'slide', 'comfiest', 'shoe', 'around', 'shop', 'kat', 'cloud', 'slide', 'today', 'yoru', 'fave', 'color', 'minimal', 'heel', 'fashionrevolution', 'black', 'fashiontrends', 'summerfashion', 'fashioninspo', 'vintagefashion', 'glamour', 'cloudshoes', 'slipper', '']"
+fashiontrends,Trendiest Knitwear At Net-A-Porter #fashiontrends  via @YouTube #knitwear #sweater #netaporter #fashiontrends,Trendiest Knitwear At NetAPorter fashiontrends  via YouTube knitwear sweater netaporter fashiontrends,"['trendiest', 'knitwear', 'at', 'netaporter', 'fashiontrends', 'via', 'youtube', 'knitwear', 'sweater', 'netaporter', 'fashiontrends']","['trendiest', 'knitwear', 'netaporter', 'fashiontrends', 'via', 'youtube', 'knitwear', 'sweater', 'netaporter', 'fashiontrends']","['trendiest', 'knitwear', 'netaport', 'fashiontrend', 'via', 'youtub', 'knitwear', 'sweater', 'netaport', 'fashiontrend']","['trendiest', 'knitwear', 'netaporter', 'fashiontrends', 'via', 'youtube', 'knitwear', 'sweater', 'netaporter', 'fashiontrends']"
+fashiontrends,"Or like #Celio, a cool, fun-loving and smart one
+#trendy #FashionTrends #lookatme 
+","Or like Celio a cool funloving and smart one
+trendy FashionTrends lookatme 
+","['or', 'like', 'celio', 'a', 'cool', 'funloving', 'and', 'smart', 'one', 'trendy', 'fashiontrends', 'lookatme', '']","['like', 'celio', 'cool', 'funloving', 'smart', 'one', 'trendy', 'fashiontrends', 'lookatme', '']","['like', 'celio', 'cool', 'funlov', 'smart', 'one', 'trendi', 'fashiontrend', 'lookatm', '']","['like', 'celio', 'cool', 'funloving', 'smart', 'one', 'trendy', 'fashiontrends', 'lookatme', '']"
+fashiontrends,"What's the outfit tonight? 😏
+⁠
+Streaming Everywhere | Link in bio*⁠
+⁠
+#saturday #weekend #sexpositive #weekendmood #deephouse #techhouse #spotify #theeveningafter #lifestyle #fashiontrends #styleblogger #fashioninspo #fashion #style #model #painting #makeup #fashionblogger ","Whats the outfit tonight 
+
+Streaming Everywhere  Link in bio
+
+saturday weekend sexpositive weekendmood deephouse techhouse spotify theeveningafter lifestyle fashiontrends styleblogger fashioninspo fashion style model painting makeup fashionblogger ","['whats', 'the', 'outfit', 'tonight', 'streaming', 'everywhere', 'link', 'in', 'bio', 'saturday', 'weekend', 'sexpositive', 'weekendmood', 'deephouse', 'techhouse', 'spotify', 'theeveningafter', 'lifestyle', 'fashiontrends', 'styleblogger', 'fashioninspo', 'fashion', 'style', 'model', 'painting', 'makeup', 'fashionblogger', '']","['whats', 'outfit', 'tonight', 'streaming', 'everywhere', 'link', 'bio', 'saturday', 'weekend', 'sexpositive', 'weekendmood', 'deephouse', 'techhouse', 'spotify', 'theeveningafter', 'lifestyle', 'fashiontrends', 'styleblogger', 'fashioninspo', 'fashion', 'style', 'model', 'painting', 'makeup', 'fashionblogger', '']","['what', 'outfit', 'tonight', 'stream', 'everywher', 'link', 'bio', 'saturday', 'weekend', 'sexposit', 'weekendmood', 'deephous', 'techhous', 'spotifi', 'theeveningaft', 'lifestyl', 'fashiontrend', 'styleblogg', 'fashioninspo', 'fashion', 'style', 'model', 'paint', 'makeup', 'fashionblogg', '']","['whats', 'outfit', 'tonight', 'streaming', 'everywhere', 'link', 'bio', 'saturday', 'weekend', 'sexpositive', 'weekendmood', 'deephouse', 'techhouse', 'spotify', 'theeveningafter', 'lifestyle', 'fashiontrends', 'styleblogger', 'fashioninspo', 'fashion', 'style', 'model', 'painting', 'makeup', 'fashionblogger', '']"
+fashiontrends,"#Acelitt #Women Short Sleeve V Neck Button Belted
+
+#fashionstylist #woman #Jewellry #womanfashion #clothe #clothes
+#fashion #fashionblogger #womenstyle #fashiontrends
+#amazonseller #amazondeals #AmazonBestSeller #amazonprime #accessories #accessory #USA","Acelitt Women Short Sleeve V Neck Button Belted
+
+fashionstylist woman Jewellry womanfashion clothe clothes
+fashion fashionblogger womenstyle fashiontrends
+amazonseller amazondeals AmazonBestSeller amazonprime accessories accessory USA","['acelitt', 'women', 'short', 'sleeve', 'v', 'neck', 'button', 'belted', 'fashionstylist', 'woman', 'jewellry', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessories', 'accessory', 'usa']","['acelitt', 'women', 'short', 'sleeve', 'v', 'neck', 'button', 'belted', 'fashionstylist', 'woman', 'jewellry', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessories', 'accessory', 'usa']","['acelitt', 'women', 'short', 'sleev', 'v', 'neck', 'button', 'belt', 'fashionstylist', 'woman', 'jewellri', 'womanfashion', 'cloth', 'cloth', 'fashion', 'fashionblogg', 'womenstyl', 'fashiontrend', 'amazonsel', 'amazond', 'amazonbestsel', 'amazonprim', 'accessori', 'accessori', 'usa']","['acelitt', 'woman', 'short', 'sleeve', 'v', 'neck', 'button', 'belted', 'fashionstylist', 'woman', 'jewellry', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessory', 'accessory', 'usa']"
+fashiontrends,"A visual adventure to this festive season's celebrations
+
+
+
+#Fashion  #Shopping  #FashionTrends  #ShoppingIdeas #BrighterThanEver @jimSarbh @ManushiChhillar @shantanum07 @ZaedenMusic #AmitKothari @hm @hmindia #HMHOME @myntra #MadeinIndia @oh_women ","A visual adventure to this festive seasons celebrations
+
+
+
+Fashion  Shopping  FashionTrends  ShoppingIdeas BrighterThanEver jimSarbh ManushiChhillar shantanum07 ZaedenMusic AmitKothari hm hmindia HMHOME myntra MadeinIndia oh_women ","['a', 'visual', 'adventure', 'to', 'this', 'festive', 'seasons', 'celebrations', 'fashion', 'shopping', 'fashiontrends', 'shoppingideas', 'brighterthanever', 'jimsarbh', 'manushichhillar', 'shantanum07', 'zaedenmusic', 'amitkothari', 'hm', 'hmindia', 'hmhome', 'myntra', 'madeinindia', 'oh_women', '']","['visual', 'adventure', 'festive', 'seasons', 'celebrations', 'fashion', 'shopping', 'fashiontrends', 'shoppingideas', 'brighterthanever', 'jimsarbh', 'manushichhillar', 'shantanum07', 'zaedenmusic', 'amitkothari', 'hm', 'hmindia', 'hmhome', 'myntra', 'madeinindia', 'oh_women', '']","['visual', 'adventur', 'festiv', 'season', 'celebr', 'fashion', 'shop', 'fashiontrend', 'shoppingidea', 'brighterthanev', 'jimsarbh', 'manushichhillar', 'shantanum07', 'zaedenmus', 'amitkothari', 'hm', 'hmindia', 'hmhome', 'myntra', 'madeinindia', 'oh_women', '']","['visual', 'adventure', 'festive', 'season', 'celebration', 'fashion', 'shopping', 'fashiontrends', 'shoppingideas', 'brighterthanever', 'jimsarbh', 'manushichhillar', 'shantanum07', 'zaedenmusic', 'amitkothari', 'hm', 'hmindia', 'hmhome', 'myntra', 'madeinindia', 'oh_women', '']"
+fashiontrends,"Up to 80% off #Jewelry com
+
+#dress #clothes #clothesline #fashionstylist #women #jewelrydesigner #jewelrydesign
+#fashion #fashionblogger #fashioninspiration #womenstyle #fashiontrends #accessories #Accessory #jewellry #usa #ebay #ebaystore","Up to 80 off Jewelry com
+
+dress clothes clothesline fashionstylist women jewelrydesigner jewelrydesign
+fashion fashionblogger fashioninspiration womenstyle fashiontrends accessories Accessory jewellry usa ebay ebaystore","['up', 'to', '80', 'off', 'jewelry', 'com', 'dress', 'clothes', 'clothesline', 'fashionstylist', 'women', 'jewelrydesigner', 'jewelrydesign', 'fashion', 'fashionblogger', 'fashioninspiration', 'womenstyle', 'fashiontrends', 'accessories', 'accessory', 'jewellry', 'usa', 'ebay', 'ebaystore']","['80', 'jewelry', 'com', 'dress', 'clothes', 'clothesline', 'fashionstylist', 'women', 'jewelrydesigner', 'jewelrydesign', 'fashion', 'fashionblogger', 'fashioninspiration', 'womenstyle', 'fashiontrends', 'accessories', 'accessory', 'jewellry', 'usa', 'ebay', 'ebaystore']","['80', 'jewelri', 'com', 'dress', 'cloth', 'clotheslin', 'fashionstylist', 'women', 'jewelrydesign', 'jewelrydesign', 'fashion', 'fashionblogg', 'fashioninspir', 'womenstyl', 'fashiontrend', 'accessori', 'accessori', 'jewellri', 'usa', 'ebay', 'ebaystor']","['80', 'jewelry', 'com', 'dress', 'clothes', 'clothesline', 'fashionstylist', 'woman', 'jewelrydesigner', 'jewelrydesign', 'fashion', 'fashionblogger', 'fashioninspiration', 'womenstyle', 'fashiontrends', 'accessory', 'accessory', 'jewellry', 'usa', 'ebay', 'ebaystore']"
+fashiontrends,"#PRETTYGARDEN #Women's Two Piece Tracksuit
+
+#fashionstylist #woman #Jewellry #womanfashion #clothe #clothes
+#fashion #fashionblogger #womenstyle #fashiontrends
+#amazonseller #amazondeals #AmazonBestSeller #amazonprime #accessories #accessory #USA","PRETTYGARDEN Womens Two Piece Tracksuit
+
+fashionstylist woman Jewellry womanfashion clothe clothes
+fashion fashionblogger womenstyle fashiontrends
+amazonseller amazondeals AmazonBestSeller amazonprime accessories accessory USA","['prettygarden', 'womens', 'two', 'piece', 'tracksuit', 'fashionstylist', 'woman', 'jewellry', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessories', 'accessory', 'usa']","['prettygarden', 'womens', 'two', 'piece', 'tracksuit', 'fashionstylist', 'woman', 'jewellry', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessories', 'accessory', 'usa']","['prettygarden', 'women', 'two', 'piec', 'tracksuit', 'fashionstylist', 'woman', 'jewellri', 'womanfashion', 'cloth', 'cloth', 'fashion', 'fashionblogg', 'womenstyl', 'fashiontrend', 'amazonsel', 'amazond', 'amazonbestsel', 'amazonprim', 'accessori', 'accessori', 'usa']","['prettygarden', 'woman', 'two', 'piece', 'tracksuit', 'fashionstylist', 'woman', 'jewellry', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessory', 'accessory', 'usa']"
+fashiontrends,"Up to 80% off 
+
+#dress #clothes #clothesline #fashionstylist #women #jewelrydesigner #jewelrydesign
+#fashion #fashionblogger #fashioninspiration #womenstyle #fashiontrends #accessories #Accessory #jewellry #usa #ebay #ebaystore","Up to 80 off 
+
+dress clothes clothesline fashionstylist women jewelrydesigner jewelrydesign
+fashion fashionblogger fashioninspiration womenstyle fashiontrends accessories Accessory jewellry usa ebay ebaystore","['up', 'to', '80', 'off', 'dress', 'clothes', 'clothesline', 'fashionstylist', 'women', 'jewelrydesigner', 'jewelrydesign', 'fashion', 'fashionblogger', 'fashioninspiration', 'womenstyle', 'fashiontrends', 'accessories', 'accessory', 'jewellry', 'usa', 'ebay', 'ebaystore']","['80', 'dress', 'clothes', 'clothesline', 'fashionstylist', 'women', 'jewelrydesigner', 'jewelrydesign', 'fashion', 'fashionblogger', 'fashioninspiration', 'womenstyle', 'fashiontrends', 'accessories', 'accessory', 'jewellry', 'usa', 'ebay', 'ebaystore']","['80', 'dress', 'cloth', 'clotheslin', 'fashionstylist', 'women', 'jewelrydesign', 'jewelrydesign', 'fashion', 'fashionblogg', 'fashioninspir', 'womenstyl', 'fashiontrend', 'accessori', 'accessori', 'jewellri', 'usa', 'ebay', 'ebaystor']","['80', 'dress', 'clothes', 'clothesline', 'fashionstylist', 'woman', 'jewelrydesigner', 'jewelrydesign', 'fashion', 'fashionblogger', 'fashioninspiration', 'womenstyle', 'fashiontrends', 'accessory', 'accessory', 'jewellry', 'usa', 'ebay', 'ebaystore']"
+fashiontrends,"Up to 15% off #CHANEL #jewelry
+
+#dress #clothes #clothesline #fashionstylist #women #jewelrydesigner #jewelrydesign
+#fashion #fashionblogger #fashioninspiration #womenstyle #fashiontrends #accessories #Accessory #jewellry #usa #ebay","Up to 15 off CHANEL jewelry
+
+dress clothes clothesline fashionstylist women jewelrydesigner jewelrydesign
+fashion fashionblogger fashioninspiration womenstyle fashiontrends accessories Accessory jewellry usa ebay","['up', 'to', '15', 'off', 'chanel', 'jewelry', 'dress', 'clothes', 'clothesline', 'fashionstylist', 'women', 'jewelrydesigner', 'jewelrydesign', 'fashion', 'fashionblogger', 'fashioninspiration', 'womenstyle', 'fashiontrends', 'accessories', 'accessory', 'jewellry', 'usa', 'ebay']","['15', 'chanel', 'jewelry', 'dress', 'clothes', 'clothesline', 'fashionstylist', 'women', 'jewelrydesigner', 'jewelrydesign', 'fashion', 'fashionblogger', 'fashioninspiration', 'womenstyle', 'fashiontrends', 'accessories', 'accessory', 'jewellry', 'usa', 'ebay']","['15', 'chanel', 'jewelri', 'dress', 'cloth', 'clotheslin', 'fashionstylist', 'women', 'jewelrydesign', 'jewelrydesign', 'fashion', 'fashionblogg', 'fashioninspir', 'womenstyl', 'fashiontrend', 'accessori', 'accessori', 'jewellri', 'usa', 'ebay']","['15', 'chanel', 'jewelry', 'dress', 'clothes', 'clothesline', 'fashionstylist', 'woman', 'jewelrydesigner', 'jewelrydesign', 'fashion', 'fashionblogger', 'fashioninspiration', 'womenstyle', 'fashiontrends', 'accessory', 'accessory', 'jewellry', 'usa', 'ebay']"
+fashiontrends,"GIROCOLLO Charms Stelle
+
+#vestopazzo #anticamerceriarinaldi #idearegalo #theperfectgift #rosegold #idearegalo #shoppingtime #styleoftheday #picoftheday #forsale #branding #fashiontrends #bijoux #thelifeisanadventure #ilmondodentro #madewithlove ","GIROCOLLO Charms Stelle
+
+vestopazzo anticamerceriarinaldi idearegalo theperfectgift rosegold idearegalo shoppingtime styleoftheday picoftheday forsale branding fashiontrends bijoux thelifeisanadventure ilmondodentro madewithlove ","['girocollo', 'charms', 'stelle', 'vestopazzo', 'anticamerceriarinaldi', 'idearegalo', 'theperfectgift', 'rosegold', 'idearegalo', 'shoppingtime', 'styleoftheday', 'picoftheday', 'forsale', 'branding', 'fashiontrends', 'bijoux', 'thelifeisanadventure', 'ilmondodentro', 'madewithlove', '']","['girocollo', 'charms', 'stelle', 'vestopazzo', 'anticamerceriarinaldi', 'idearegalo', 'theperfectgift', 'rosegold', 'idearegalo', 'shoppingtime', 'styleoftheday', 'picoftheday', 'forsale', 'branding', 'fashiontrends', 'bijoux', 'thelifeisanadventure', 'ilmondodentro', 'madewithlove', '']","['girocollo', 'charm', 'stell', 'vestopazzo', 'anticamerceriarinaldi', 'idearegalo', 'theperfectgift', 'rosegold', 'idearegalo', 'shoppingtim', 'styleoftheday', 'picoftheday', 'forsal', 'brand', 'fashiontrend', 'bijoux', 'thelifeisanadventur', 'ilmondodentro', 'madewithlov', '']","['girocollo', 'charm', 'stelle', 'vestopazzo', 'anticamerceriarinaldi', 'idearegalo', 'theperfectgift', 'rosegold', 'idearegalo', 'shoppingtime', 'styleoftheday', 'picoftheday', 'forsale', 'branding', 'fashiontrends', 'bijou', 'thelifeisanadventure', 'ilmondodentro', 'madewithlove', '']"
+fashiontrends,Must have this season #Shoes #musthave #fashionstyle #FashionTrends #shoesaddict #loafers #pfw #nyfw ,Must have this season Shoes musthave fashionstyle FashionTrends shoesaddict loafers pfw nyfw ,"['must', 'have', 'this', 'season', 'shoes', 'musthave', 'fashionstyle', 'fashiontrends', 'shoesaddict', 'loafers', 'pfw', 'nyfw', '']","['must', 'season', 'shoes', 'musthave', 'fashionstyle', 'fashiontrends', 'shoesaddict', 'loafers', 'pfw', 'nyfw', '']","['must', 'season', 'shoe', 'musthav', 'fashionstyl', 'fashiontrend', 'shoesaddict', 'loafer', 'pfw', 'nyfw', '']","['must', 'season', 'shoe', 'musthave', 'fashionstyle', 'fashiontrends', 'shoesaddict', 'loafer', 'pfw', 'nyfw', '']"
+fashiontrends,"AZORTE. Women's Co-ords​​
+​​
+Dress down in classic, vibrant colours from head to toe and flaunt your fun side!​
+
+#coords #womensfashion 
+#forfashionfirsts
+#FashionNeoStore​
+#Fashion #Style #Fashiontrends ","AZORTE Womens Coords
+
+Dress down in classic vibrant colours from head to toe and flaunt your fun side
+
+coords womensfashion 
+forfashionfirsts
+FashionNeoStore
+Fashion Style Fashiontrends ","['azorte', 'womens', 'coords', 'dress', 'down', 'in', 'classic', 'vibrant', 'colours', 'from', 'head', 'to', 'toe', 'and', 'flaunt', 'your', 'fun', 'side', 'coords', 'womensfashion', 'forfashionfirsts', 'fashionneostore', 'fashion', 'style', 'fashiontrends', '']","['azorte', 'womens', 'coords', 'dress', 'classic', 'vibrant', 'colours', 'head', 'toe', 'flaunt', 'fun', 'side', 'coords', 'womensfashion', 'forfashionfirsts', 'fashionneostore', 'fashion', 'style', 'fashiontrends', '']","['azort', 'women', 'coord', 'dress', 'classic', 'vibrant', 'colour', 'head', 'toe', 'flaunt', 'fun', 'side', 'coord', 'womensfashion', 'forfashionfirst', 'fashionneostor', 'fashion', 'style', 'fashiontrend', '']","['azorte', 'woman', 'coords', 'dress', 'classic', 'vibrant', 'colour', 'head', 'toe', 'flaunt', 'fun', 'side', 'coords', 'womensfashion', 'forfashionfirsts', 'fashionneostore', 'fashion', 'style', 'fashiontrends', '']"
+fashiontrends,"After all, life is too short to be anything but happy 😆
+
+#fashiontrends #ootdfashion #boutique #online #fashioninspo #retailtherapy #outfit #outfitinspo #onlineshopping #fashion #fashiondaily #womensfashion #coachmalaysia #malaysianps #handbagcoachmalaysia ","After all life is too short to be anything but happy 
+
+fashiontrends ootdfashion boutique online fashioninspo retailtherapy outfit outfitinspo onlineshopping fashion fashiondaily womensfashion coachmalaysia malaysianps handbagcoachmalaysia ","['after', 'all', 'life', 'is', 'too', 'short', 'to', 'be', 'anything', 'but', 'happy', 'fashiontrends', 'ootdfashion', 'boutique', 'online', 'fashioninspo', 'retailtherapy', 'outfit', 'outfitinspo', 'onlineshopping', 'fashion', 'fashiondaily', 'womensfashion', 'coachmalaysia', 'malaysianps', 'handbagcoachmalaysia', '']","['life', 'short', 'anything', 'happy', 'fashiontrends', 'ootdfashion', 'boutique', 'online', 'fashioninspo', 'retailtherapy', 'outfit', 'outfitinspo', 'onlineshopping', 'fashion', 'fashiondaily', 'womensfashion', 'coachmalaysia', 'malaysianps', 'handbagcoachmalaysia', '']","['life', 'short', 'anyth', 'happi', 'fashiontrend', 'ootdfashion', 'boutiqu', 'onlin', 'fashioninspo', 'retailtherapi', 'outfit', 'outfitinspo', 'onlineshop', 'fashion', 'fashiondaili', 'womensfashion', 'coachmalaysia', 'malaysianp', 'handbagcoachmalaysia', '']","['life', 'short', 'anything', 'happy', 'fashiontrends', 'ootdfashion', 'boutique', 'online', 'fashioninspo', 'retailtherapy', 'outfit', 'outfitinspo', 'onlineshopping', 'fashion', 'fashiondaily', 'womensfashion', 'coachmalaysia', 'malaysianps', 'handbagcoachmalaysia', '']"
+fashiontrends,"Boutique Clothing Australia | Punjaban Designer Boutique.
+💬👉
+Shop Now 👉 
+👉 📲 CALL US : +91- 8054555191
+👉 📲 CALL US : +91- 8699971142
+#fashionstyle #fashion #intimatewedding #indianfashion #indianfashionstore #fashiontrends","Boutique Clothing Australia  Punjaban Designer Boutique
+
+Shop Now  
+  CALL US  91 8054555191
+  CALL US  91 8699971142
+fashionstyle fashion intimatewedding indianfashion indianfashionstore fashiontrends","['boutique', 'clothing', 'australia', 'punjaban', 'designer', 'boutique', 'shop', 'now', 'call', 'us', '91', '8054555191', 'call', 'us', '91', '8699971142', 'fashionstyle', 'fashion', 'intimatewedding', 'indianfashion', 'indianfashionstore', 'fashiontrends']","['boutique', 'clothing', 'australia', 'punjaban', 'designer', 'boutique', 'shop', 'call', 'us', '91', '8054555191', 'call', 'us', '91', '8699971142', 'fashionstyle', 'fashion', 'intimatewedding', 'indianfashion', 'indianfashionstore', 'fashiontrends']","['boutiqu', 'cloth', 'australia', 'punjaban', 'design', 'boutiqu', 'shop', 'call', 'us', '91', '8054555191', 'call', 'us', '91', '8699971142', 'fashionstyl', 'fashion', 'intimatewed', 'indianfashion', 'indianfashionstor', 'fashiontrend']","['boutique', 'clothing', 'australia', 'punjaban', 'designer', 'boutique', 'shop', 'call', 'u', '91', '8054555191', 'call', 'u', '91', '8699971142', 'fashionstyle', 'fashion', 'intimatewedding', 'indianfashion', 'indianfashionstore', 'fashiontrends']"
+fashiontrends,"Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need,
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog 
+#glamour #glamourmodel #elegant #elegance ","Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog 
+glamour glamourmodel elegant elegance ","['catch', 'flight', '1019', 'holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discounts', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'eleg', 'eleg', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']"
+fashiontrends,"Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need,
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog 
+#glamour #glamourmodel #elegant #elegance ","Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog 
+glamour glamourmodel elegant elegance ","['catch', 'flight', '1019', 'holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discounts', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'eleg', 'eleg', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']"
+fashiontrends,"Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need,
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog 
+#glamour #glamourmodel #elegant #elegance ","Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog 
+glamour glamourmodel elegant elegance ","['catch', 'flight', '1019', 'holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discounts', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'eleg', 'eleg', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']"
+fashiontrends,"Get sweaty 🫠
+
+Streaming Everywhere | Link in bio*
+
+#saturday #weekend # #weekendvibes #happysatuday #sexpositive #weekendmood #saturdayvibes #saturdaynight #deephouse #techhouse #spotify #theeveningafter #lifestyle #fashiontrends #fashioninspo #fashion #style #model #painting ","Get sweaty 
+
+Streaming Everywhere  Link in bio
+
+saturday weekend  weekendvibes happysatuday sexpositive weekendmood saturdayvibes saturdaynight deephouse techhouse spotify theeveningafter lifestyle fashiontrends fashioninspo fashion style model painting ","['get', 'sweaty', 'streaming', 'everywhere', 'link', 'in', 'bio', 'saturday', 'weekend', 'weekendvibes', 'happysatuday', 'sexpositive', 'weekendmood', 'saturdayvibes', 'saturdaynight', 'deephouse', 'techhouse', 'spotify', 'theeveningafter', 'lifestyle', 'fashiontrends', 'fashioninspo', 'fashion', 'style', 'model', 'painting', '']","['get', 'sweaty', 'streaming', 'everywhere', 'link', 'bio', 'saturday', 'weekend', 'weekendvibes', 'happysatuday', 'sexpositive', 'weekendmood', 'saturdayvibes', 'saturdaynight', 'deephouse', 'techhouse', 'spotify', 'theeveningafter', 'lifestyle', 'fashiontrends', 'fashioninspo', 'fashion', 'style', 'model', 'painting', '']","['get', 'sweati', 'stream', 'everywher', 'link', 'bio', 'saturday', 'weekend', 'weekendvib', 'happysatuday', 'sexposit', 'weekendmood', 'saturdayvib', 'saturdaynight', 'deephous', 'techhous', 'spotifi', 'theeveningaft', 'lifestyl', 'fashiontrend', 'fashioninspo', 'fashion', 'style', 'model', 'paint', '']","['get', 'sweaty', 'streaming', 'everywhere', 'link', 'bio', 'saturday', 'weekend', 'weekendvibes', 'happysatuday', 'sexpositive', 'weekendmood', 'saturdayvibes', 'saturdaynight', 'deephouse', 'techhouse', 'spotify', 'theeveningafter', 'lifestyle', 'fashiontrends', 'fashioninspo', 'fashion', 'style', 'model', 'painting', '']"
+fashiontrends,How I Would Style Taylor Swift (Part 4) #fashiontrends #taylorswift #tay...  via @YouTube #fashion #TaylorSwift,How I Would Style Taylor Swift Part 4 fashiontrends taylorswift tay  via YouTube fashion TaylorSwift,"['how', 'i', 'would', 'style', 'taylor', 'swift', 'part', '4', 'fashiontrends', 'taylorswift', 'tay', 'via', 'youtube', 'fashion', 'taylorswift']","['would', 'style', 'taylor', 'swift', 'part', '4', 'fashiontrends', 'taylorswift', 'tay', 'via', 'youtube', 'fashion', 'taylorswift']","['would', 'style', 'taylor', 'swift', 'part', '4', 'fashiontrend', 'taylorswift', 'tay', 'via', 'youtub', 'fashion', 'taylorswift']","['would', 'style', 'taylor', 'swift', 'part', '4', 'fashiontrends', 'taylorswift', 'tay', 'via', 'youtube', 'fashion', 'taylorswift']"
+fashiontrends,"😍Check this out! US $27.72 only! ✅ FREE Shipping  US $27.72
+#ootd #womenstyle #fashiontrends #newcollection #tshirtstore #streetstyle ","Check this out US 2772 only  FREE Shipping  US 2772
+ootd womenstyle fashiontrends newcollection tshirtstore streetstyle ","['check', 'this', 'out', 'us', '2772', 'only', 'free', 'shipping', 'us', '2772', 'ootd', 'womenstyle', 'fashiontrends', 'newcollection', 'tshirtstore', 'streetstyle', '']","['check', 'us', '2772', 'free', 'shipping', 'us', '2772', 'ootd', 'womenstyle', 'fashiontrends', 'newcollection', 'tshirtstore', 'streetstyle', '']","['check', 'us', '2772', 'free', 'ship', 'us', '2772', 'ootd', 'womenstyl', 'fashiontrend', 'newcollect', 'tshirtstor', 'streetstyl', '']","['check', 'u', '2772', 'free', 'shipping', 'u', '2772', 'ootd', 'womenstyle', 'fashiontrends', 'newcollection', 'tshirtstore', 'streetstyle', '']"
+fashiontrends,"Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need,
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog 
+#glamour #glamourmodel #elegant #elegance ","Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog 
+glamour glamourmodel elegant elegance ","['catch', 'flight', '1019', 'holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discounts', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'eleg', 'eleg', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']"
+fashiontrends,"Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need,
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog 
+#glamour #glamourmodel #elegant #elegance ","Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog 
+glamour glamourmodel elegant elegance ","['catch', 'flight', '1019', 'holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discounts', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'eleg', 'eleg', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']"
+fashiontrends,"Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need,
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog 
+#glamour #glamourmodel #elegant #elegance ","Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog 
+glamour glamourmodel elegant elegance ","['catch', 'flight', '1019', 'holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discounts', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'eleg', 'eleg', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']"
+fashiontrends,"Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need,
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog 
+#glamour #glamourmodel #elegant #elegance ","Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog 
+glamour glamourmodel elegant elegance ","['catch', 'flight', '1019', 'holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discounts', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'eleg', 'eleg', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']"
+fashiontrends,"Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need,
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog 
+#glamour #glamourmodel #elegant #elegance #newyork ","Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog 
+glamour glamourmodel elegant elegance newyork ","['catch', 'flight', '1019', 'holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', 'newyork', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discounts', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', 'newyork', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'eleg', 'eleg', 'newyork', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', 'newyork', '']"
+fashiontrends,"Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need,
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog 
+#glamour #glamourmodel #elegant #elegance ","Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog 
+glamour glamourmodel elegant elegance ","['catch', 'flight', '1019', 'holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discounts', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'eleg', 'eleg', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']"
+fashiontrends,"Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need,
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog 
+#glamour #glamourmodel #elegant #elegance ","Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog 
+glamour glamourmodel elegant elegance ","['catch', 'flight', '1019', 'holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discounts', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'eleg', 'eleg', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']"
+fashiontrends,"Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need,
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog 
+#glamour #glamourmodel #elegant #elegance ","Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog 
+glamour glamourmodel elegant elegance ","['catch', 'flight', '1019', 'holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discounts', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'eleg', 'eleg', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']"
+fashiontrends,"Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need,
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog 
+#glamour #glamourmodel #elegant #elegance #newyork ","Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog 
+glamour glamourmodel elegant elegance newyork ","['catch', 'flight', '1019', 'holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', 'newyork', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discounts', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', 'newyork', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'eleg', 'eleg', 'newyork', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', 'newyork', '']"
+fashiontrends,"Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need,
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog 
+#glamour #glamourmodel #elegant #elegance ","Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog 
+glamour glamourmodel elegant elegance ","['catch', 'flight', '1019', 'holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discounts', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'eleg', 'eleg', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']"
+fashiontrends,"Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need,
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog 
+#glamour #glamourmodel #elegant #elegance ","Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog 
+glamour glamourmodel elegant elegance ","['catch', 'flight', '1019', 'holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discounts', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'eleg', 'eleg', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']"
+fashiontrends,"Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need,
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog 
+#glamour #glamourmodel #elegant #elegance ","Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog 
+glamour glamourmodel elegant elegance ","['catch', 'flight', '1019', 'holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discounts', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'eleg', 'eleg', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']"
+fashiontrends,"Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need,
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog 
+#glamour #glamourmodel #elegant #elegance ","Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog 
+glamour glamourmodel elegant elegance ","['catch', 'flight', '1019', 'holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discounts', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'eleg', 'eleg', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']"
+fashiontrends,"Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need,
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog 
+#glamour #glamourmodel #elegant #elegance #NewYork ","Catch Flight 1019
+Holla At the Squad for the DISCOUNTS 
+what you need
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog 
+glamour glamourmodel elegant elegance NewYork ","['catch', 'flight', '1019', 'holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', 'newyork', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discounts', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', 'newyork', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'eleg', 'eleg', 'newyork', '']","['catch', 'flight', '1019', 'holla', 'squad', 'discount', 'need', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'glamour', 'glamourmodel', 'elegant', 'elegance', 'newyork', '']"
+fashiontrends,"SMILE - #fashion #fashionable #fashionaddict #fashionblogger #fashionbloggers #fashiongram #fashionicon #fashioninspo #fashionista #fashionistas #fashionlove #fashionlovers #fashionpost #fashionstyle #fashiontrends #instafashion #Smile - ...
+","SMILE  fashion fashionable fashionaddict fashionblogger fashionbloggers fashiongram fashionicon fashioninspo fashionista fashionistas fashionlove fashionlovers fashionpost fashionstyle fashiontrends instafashion Smile  
+","['smile', 'fashion', 'fashionable', 'fashionaddict', 'fashionblogger', 'fashionbloggers', 'fashiongram', 'fashionicon', 'fashioninspo', 'fashionista', 'fashionistas', 'fashionlove', 'fashionlovers', 'fashionpost', 'fashionstyle', 'fashiontrends', 'instafashion', 'smile', '']","['smile', 'fashion', 'fashionable', 'fashionaddict', 'fashionblogger', 'fashionbloggers', 'fashiongram', 'fashionicon', 'fashioninspo', 'fashionista', 'fashionistas', 'fashionlove', 'fashionlovers', 'fashionpost', 'fashionstyle', 'fashiontrends', 'instafashion', 'smile', '']","['smile', 'fashion', 'fashion', 'fashionaddict', 'fashionblogg', 'fashionblogg', 'fashiongram', 'fashionicon', 'fashioninspo', 'fashionista', 'fashionista', 'fashionlov', 'fashionlov', 'fashionpost', 'fashionstyl', 'fashiontrend', 'instafashion', 'smile', '']","['smile', 'fashion', 'fashionable', 'fashionaddict', 'fashionblogger', 'fashionbloggers', 'fashiongram', 'fashionicon', 'fashioninspo', 'fashionista', 'fashionistas', 'fashionlove', 'fashionlovers', 'fashionpost', 'fashionstyle', 'fashiontrends', 'instafashion', 'smile', '']"
+fashiontrends,"""Women's Long Sleeve Crop Top""
+
+#womensstyle #fashiondaily #fashiontrends #womensfashionstyle #womenstyleguide #croptop #streetstyleinspiration #streetwearfashions #comfortstyle #leisurewear ","Womens Long Sleeve Crop Top
+
+womensstyle fashiondaily fashiontrends womensfashionstyle womenstyleguide croptop streetstyleinspiration streetwearfashions comfortstyle leisurewear ","['womens', 'long', 'sleeve', 'crop', 'top', 'womensstyle', 'fashiondaily', 'fashiontrends', 'womensfashionstyle', 'womenstyleguide', 'croptop', 'streetstyleinspiration', 'streetwearfashions', 'comfortstyle', 'leisurewear', '']","['womens', 'long', 'sleeve', 'crop', 'top', 'womensstyle', 'fashiondaily', 'fashiontrends', 'womensfashionstyle', 'womenstyleguide', 'croptop', 'streetstyleinspiration', 'streetwearfashions', 'comfortstyle', 'leisurewear', '']","['women', 'long', 'sleev', 'crop', 'top', 'womensstyl', 'fashiondaili', 'fashiontrend', 'womensfashionstyl', 'womenstyleguid', 'croptop', 'streetstyleinspir', 'streetwearfashion', 'comfortstyl', 'leisurewear', '']","['woman', 'long', 'sleeve', 'crop', 'top', 'womensstyle', 'fashiondaily', 'fashiontrends', 'womensfashionstyle', 'womenstyleguide', 'croptop', 'streetstyleinspiration', 'streetwearfashions', 'comfortstyle', 'leisurewear', '']"
+fashiontrends,"Startup founders Nisarga Kadam and Yasmeen Collins aim to utilize the power of #artificialintelligence to inform current #fashiontrends
+
+With the help of the @InventPennState Summer Founders Program, AIMADETHIS is making AI-generated clothing a reality! ","Startup founders Nisarga Kadam and Yasmeen Collins aim to utilize the power of artificialintelligence to inform current fashiontrends
+
+With the help of the InventPennState Summer Founders Program AIMADETHIS is making AIgenerated clothing a reality ","['startup', 'founders', 'nisarga', 'kadam', 'and', 'yasmeen', 'collins', 'aim', 'to', 'utilize', 'the', 'power', 'of', 'artificialintelligence', 'to', 'inform', 'current', 'fashiontrends', 'with', 'the', 'help', 'of', 'the', 'inventpennstate', 'summer', 'founders', 'program', 'aimadethis', 'is', 'making', 'aigenerated', 'clothing', 'a', 'reality', '']","['startup', 'founders', 'nisarga', 'kadam', 'yasmeen', 'collins', 'aim', 'utilize', 'power', 'artificialintelligence', 'inform', 'current', 'fashiontrends', 'help', 'inventpennstate', 'summer', 'founders', 'program', 'aimadethis', 'making', 'aigenerated', 'clothing', 'reality', '']","['startup', 'founder', 'nisarga', 'kadam', 'yasmeen', 'collin', 'aim', 'util', 'power', 'artificialintellig', 'inform', 'current', 'fashiontrend', 'help', 'inventpennst', 'summer', 'founder', 'program', 'aimadethi', 'make', 'aigener', 'cloth', 'realiti', '']","['startup', 'founder', 'nisarga', 'kadam', 'yasmeen', 'collins', 'aim', 'utilize', 'power', 'artificialintelligence', 'inform', 'current', 'fashiontrends', 'help', 'inventpennstate', 'summer', 'founder', 'program', 'aimadethis', 'making', 'aigenerated', 'clothing', 'reality', '']"
+fashiontrends,"Do Revenge Eleanor Coat
+
+Shop Now: 
+Secure Checkout
+Free Shipping Worldwide
+
+#fashionista #fashiontrends #fashionstyle #fashionblogger #fashionclothing #fashioncoat  #coatshopping #latestcoat #coattrend  #celebsjacket #dorevenge #eleanorcoat #orangecoat ","Do Revenge Eleanor Coat
+
+Shop Now 
+Secure Checkout
+Free Shipping Worldwide
+
+fashionista fashiontrends fashionstyle fashionblogger fashionclothing fashioncoat  coatshopping latestcoat coattrend  celebsjacket dorevenge eleanorcoat orangecoat ","['do', 'revenge', 'eleanor', 'coat', 'shop', 'now', 'secure', 'checkout', 'free', 'shipping', 'worldwide', 'fashionista', 'fashiontrends', 'fashionstyle', 'fashionblogger', 'fashionclothing', 'fashioncoat', 'coatshopping', 'latestcoat', 'coattrend', 'celebsjacket', 'dorevenge', 'eleanorcoat', 'orangecoat', '']","['revenge', 'eleanor', 'coat', 'shop', 'secure', 'checkout', 'free', 'shipping', 'worldwide', 'fashionista', 'fashiontrends', 'fashionstyle', 'fashionblogger', 'fashionclothing', 'fashioncoat', 'coatshopping', 'latestcoat', 'coattrend', 'celebsjacket', 'dorevenge', 'eleanorcoat', 'orangecoat', '']","['reveng', 'eleanor', 'coat', 'shop', 'secur', 'checkout', 'free', 'ship', 'worldwid', 'fashionista', 'fashiontrend', 'fashionstyl', 'fashionblogg', 'fashioncloth', 'fashioncoat', 'coatshop', 'latestcoat', 'coattrend', 'celebsjacket', 'doreveng', 'eleanorcoat', 'orangecoat', '']","['revenge', 'eleanor', 'coat', 'shop', 'secure', 'checkout', 'free', 'shipping', 'worldwide', 'fashionista', 'fashiontrends', 'fashionstyle', 'fashionblogger', 'fashionclothing', 'fashioncoat', 'coatshopping', 'latestcoat', 'coattrend', 'celebsjacket', 'dorevenge', 'eleanorcoat', 'orangecoat', '']"
+fashiontrends,"Do Revenge Eleanor Jacket
+
+Shop Now: 
+Secure Checkout
+Free Shipping Worldwide
+
+#fashionista #fashiontrends #fashionstyle #fashionblogger #fashionclothing #fashionjacket #jacketshopping #latestjacket #jackettrend #dorevenge #blue #bomberjacket #eleanorjacket ","Do Revenge Eleanor Jacket
+
+Shop Now 
+Secure Checkout
+Free Shipping Worldwide
+
+fashionista fashiontrends fashionstyle fashionblogger fashionclothing fashionjacket jacketshopping latestjacket jackettrend dorevenge blue bomberjacket eleanorjacket ","['do', 'revenge', 'eleanor', 'jacket', 'shop', 'now', 'secure', 'checkout', 'free', 'shipping', 'worldwide', 'fashionista', 'fashiontrends', 'fashionstyle', 'fashionblogger', 'fashionclothing', 'fashionjacket', 'jacketshopping', 'latestjacket', 'jackettrend', 'dorevenge', 'blue', 'bomberjacket', 'eleanorjacket', '']","['revenge', 'eleanor', 'jacket', 'shop', 'secure', 'checkout', 'free', 'shipping', 'worldwide', 'fashionista', 'fashiontrends', 'fashionstyle', 'fashionblogger', 'fashionclothing', 'fashionjacket', 'jacketshopping', 'latestjacket', 'jackettrend', 'dorevenge', 'blue', 'bomberjacket', 'eleanorjacket', '']","['reveng', 'eleanor', 'jacket', 'shop', 'secur', 'checkout', 'free', 'ship', 'worldwid', 'fashionista', 'fashiontrend', 'fashionstyl', 'fashionblogg', 'fashioncloth', 'fashionjacket', 'jacketshop', 'latestjacket', 'jackettrend', 'doreveng', 'blue', 'bomberjacket', 'eleanorjacket', '']","['revenge', 'eleanor', 'jacket', 'shop', 'secure', 'checkout', 'free', 'shipping', 'worldwide', 'fashionista', 'fashiontrends', 'fashionstyle', 'fashionblogger', 'fashionclothing', 'fashionjacket', 'jacketshopping', 'latestjacket', 'jackettrend', 'dorevenge', 'blue', 'bomberjacket', 'eleanorjacket', '']"
+fashiontrends,"Even from just the first record on the EP, it takes you completely into the vibe 😎 Streaming Everywhere | Link in bio*
+#saturday #weekend #happysatuday #sexpositive #weekendmood #deephouse #techhouse #spotify #theeveningafter #fashiontrends #fashioninspo #fashion #model ","Even from just the first record on the EP it takes you completely into the vibe  Streaming Everywhere  Link in bio
+saturday weekend happysatuday sexpositive weekendmood deephouse techhouse spotify theeveningafter fashiontrends fashioninspo fashion model ","['even', 'from', 'just', 'the', 'first', 'record', 'on', 'the', 'ep', 'it', 'takes', 'you', 'completely', 'into', 'the', 'vibe', 'streaming', 'everywhere', 'link', 'in', 'bio', 'saturday', 'weekend', 'happysatuday', 'sexpositive', 'weekendmood', 'deephouse', 'techhouse', 'spotify', 'theeveningafter', 'fashiontrends', 'fashioninspo', 'fashion', 'model', '']","['even', 'first', 'record', 'ep', 'takes', 'completely', 'vibe', 'streaming', 'everywhere', 'link', 'bio', 'saturday', 'weekend', 'happysatuday', 'sexpositive', 'weekendmood', 'deephouse', 'techhouse', 'spotify', 'theeveningafter', 'fashiontrends', 'fashioninspo', 'fashion', 'model', '']","['even', 'first', 'record', 'ep', 'take', 'complet', 'vibe', 'stream', 'everywher', 'link', 'bio', 'saturday', 'weekend', 'happysatuday', 'sexposit', 'weekendmood', 'deephous', 'techhous', 'spotifi', 'theeveningaft', 'fashiontrend', 'fashioninspo', 'fashion', 'model', '']","['even', 'first', 'record', 'ep', 'take', 'completely', 'vibe', 'streaming', 'everywhere', 'link', 'bio', 'saturday', 'weekend', 'happysatuday', 'sexpositive', 'weekendmood', 'deephouse', 'techhouse', 'spotify', 'theeveningafter', 'fashiontrends', 'fashioninspo', 'fashion', 'model', '']"
+fashiontrends,"Do Revenge Max Jacket
+
+Shop Now: 
+Secure Checkout
+Free Shipping Worldwide
+
+#fashionista #fashiontrends #fashionstyle #fashionblogger #fashionclothing #fashionjacket #fashionnova #jacketshopping #latestjacket #jackettrend  #dorevenge #maxjacket #yellowjacket ","Do Revenge Max Jacket
+
+Shop Now 
+Secure Checkout
+Free Shipping Worldwide
+
+fashionista fashiontrends fashionstyle fashionblogger fashionclothing fashionjacket fashionnova jacketshopping latestjacket jackettrend  dorevenge maxjacket yellowjacket ","['do', 'revenge', 'max', 'jacket', 'shop', 'now', 'secure', 'checkout', 'free', 'shipping', 'worldwide', 'fashionista', 'fashiontrends', 'fashionstyle', 'fashionblogger', 'fashionclothing', 'fashionjacket', 'fashionnova', 'jacketshopping', 'latestjacket', 'jackettrend', 'dorevenge', 'maxjacket', 'yellowjacket', '']","['revenge', 'max', 'jacket', 'shop', 'secure', 'checkout', 'free', 'shipping', 'worldwide', 'fashionista', 'fashiontrends', 'fashionstyle', 'fashionblogger', 'fashionclothing', 'fashionjacket', 'fashionnova', 'jacketshopping', 'latestjacket', 'jackettrend', 'dorevenge', 'maxjacket', 'yellowjacket', '']","['reveng', 'max', 'jacket', 'shop', 'secur', 'checkout', 'free', 'ship', 'worldwid', 'fashionista', 'fashiontrend', 'fashionstyl', 'fashionblogg', 'fashioncloth', 'fashionjacket', 'fashionnova', 'jacketshop', 'latestjacket', 'jackettrend', 'doreveng', 'maxjacket', 'yellowjacket', '']","['revenge', 'max', 'jacket', 'shop', 'secure', 'checkout', 'free', 'shipping', 'worldwide', 'fashionista', 'fashiontrends', 'fashionstyle', 'fashionblogger', 'fashionclothing', 'fashionjacket', 'fashionnova', 'jacketshopping', 'latestjacket', 'jackettrend', 'dorevenge', 'maxjacket', 'yellowjacket', '']"
+fashiontrends,"Do Revenge Drea Leather Jacket
+
+Shop Now: 
+Secure Checkout
+Free Shipping Worldwide
+
+ #fashiontrends #fashionstyle #fashionblogger #fashionclothing #fashionjacket #fashionnova #jacketshopping #latestjacket #jackettrend #dorevenge #genuineleatherjacket ","Do Revenge Drea Leather Jacket
+
+Shop Now 
+Secure Checkout
+Free Shipping Worldwide
+
+ fashiontrends fashionstyle fashionblogger fashionclothing fashionjacket fashionnova jacketshopping latestjacket jackettrend dorevenge genuineleatherjacket ","['do', 'revenge', 'drea', 'leather', 'jacket', 'shop', 'now', 'secure', 'checkout', 'free', 'shipping', 'worldwide', 'fashiontrends', 'fashionstyle', 'fashionblogger', 'fashionclothing', 'fashionjacket', 'fashionnova', 'jacketshopping', 'latestjacket', 'jackettrend', 'dorevenge', 'genuineleatherjacket', '']","['revenge', 'drea', 'leather', 'jacket', 'shop', 'secure', 'checkout', 'free', 'shipping', 'worldwide', 'fashiontrends', 'fashionstyle', 'fashionblogger', 'fashionclothing', 'fashionjacket', 'fashionnova', 'jacketshopping', 'latestjacket', 'jackettrend', 'dorevenge', 'genuineleatherjacket', '']","['reveng', 'drea', 'leather', 'jacket', 'shop', 'secur', 'checkout', 'free', 'ship', 'worldwid', 'fashiontrend', 'fashionstyl', 'fashionblogg', 'fashioncloth', 'fashionjacket', 'fashionnova', 'jacketshop', 'latestjacket', 'jackettrend', 'doreveng', 'genuineleatherjacket', '']","['revenge', 'drea', 'leather', 'jacket', 'shop', 'secure', 'checkout', 'free', 'shipping', 'worldwide', 'fashiontrends', 'fashionstyle', 'fashionblogger', 'fashionclothing', 'fashionjacket', 'fashionnova', 'jacketshopping', 'latestjacket', 'jackettrend', 'dorevenge', 'genuineleatherjacket', '']"
+fashiontrends,As you get olderpais off sound way better then bend new. #pinchofpretty #Fashionideas #fashioninfluencing #fashiontrends #October #thetrendz #styles #ootdStyle ,As you get olderpais off sound way better then bend new pinchofpretty Fashionideas fashioninfluencing fashiontrends October thetrendz styles ootdStyle ,"['as', 'you', 'get', 'olderpais', 'off', 'sound', 'way', 'better', 'then', 'bend', 'new', 'pinchofpretty', 'fashionideas', 'fashioninfluencing', 'fashiontrends', 'october', 'thetrendz', 'styles', 'ootdstyle', '']","['get', 'olderpais', 'sound', 'way', 'better', 'bend', 'new', 'pinchofpretty', 'fashionideas', 'fashioninfluencing', 'fashiontrends', 'october', 'thetrendz', 'styles', 'ootdstyle', '']","['get', 'olderpai', 'sound', 'way', 'better', 'bend', 'new', 'pinchofpretti', 'fashionidea', 'fashioninfluenc', 'fashiontrend', 'octob', 'thetrendz', 'style', 'ootdstyl', '']","['get', 'olderpais', 'sound', 'way', 'better', 'bend', 'new', 'pinchofpretty', 'fashionideas', 'fashioninfluencing', 'fashiontrends', 'october', 'thetrendz', 'style', 'ootdstyle', '']"
+fashiontrends,"Live your Style Autumn Sale
+Shop 
+#womensfashion #womenstyle #womenempoweringwomen #womeninspiringwomen #fashion #fashionstyle #fashiondesigner #fashionnova #fashionweek #fashiontrends #cothingbrand #shoponline🛍 ","Live your Style Autumn Sale
+Shop 
+womensfashion womenstyle womenempoweringwomen womeninspiringwomen fashion fashionstyle fashiondesigner fashionnova fashionweek fashiontrends cothingbrand shoponline ","['live', 'your', 'style', 'autumn', 'sale', 'shop', 'womensfashion', 'womenstyle', 'womenempoweringwomen', 'womeninspiringwomen', 'fashion', 'fashionstyle', 'fashiondesigner', 'fashionnova', 'fashionweek', 'fashiontrends', 'cothingbrand', 'shoponline', '']","['live', 'style', 'autumn', 'sale', 'shop', 'womensfashion', 'womenstyle', 'womenempoweringwomen', 'womeninspiringwomen', 'fashion', 'fashionstyle', 'fashiondesigner', 'fashionnova', 'fashionweek', 'fashiontrends', 'cothingbrand', 'shoponline', '']","['live', 'style', 'autumn', 'sale', 'shop', 'womensfashion', 'womenstyl', 'womenempoweringwomen', 'womeninspiringwomen', 'fashion', 'fashionstyl', 'fashiondesign', 'fashionnova', 'fashionweek', 'fashiontrend', 'cothingbrand', 'shoponlin', '']","['live', 'style', 'autumn', 'sale', 'shop', 'womensfashion', 'womenstyle', 'womenempoweringwomen', 'womeninspiringwomen', 'fashion', 'fashionstyle', 'fashiondesigner', 'fashionnova', 'fashionweek', 'fashiontrends', 'cothingbrand', 'shoponline', '']"
+fashiontrends,"PALM BEACH - #beach #fashion #fashionable #fashionaddict #fashionblogger #fashionbloggers #fashiongram #fashionicon #fashioninspo #fashionista #fashionistas #fashionlove #fashionlovers #fashionpost #fashionstyle #fashiontrends #instafashion #Palm - ...
+","PALM BEACH  beach fashion fashionable fashionaddict fashionblogger fashionbloggers fashiongram fashionicon fashioninspo fashionista fashionistas fashionlove fashionlovers fashionpost fashionstyle fashiontrends instafashion Palm  
+","['palm', 'beach', 'beach', 'fashion', 'fashionable', 'fashionaddict', 'fashionblogger', 'fashionbloggers', 'fashiongram', 'fashionicon', 'fashioninspo', 'fashionista', 'fashionistas', 'fashionlove', 'fashionlovers', 'fashionpost', 'fashionstyle', 'fashiontrends', 'instafashion', 'palm', '']","['palm', 'beach', 'beach', 'fashion', 'fashionable', 'fashionaddict', 'fashionblogger', 'fashionbloggers', 'fashiongram', 'fashionicon', 'fashioninspo', 'fashionista', 'fashionistas', 'fashionlove', 'fashionlovers', 'fashionpost', 'fashionstyle', 'fashiontrends', 'instafashion', 'palm', '']","['palm', 'beach', 'beach', 'fashion', 'fashion', 'fashionaddict', 'fashionblogg', 'fashionblogg', 'fashiongram', 'fashionicon', 'fashioninspo', 'fashionista', 'fashionista', 'fashionlov', 'fashionlov', 'fashionpost', 'fashionstyl', 'fashiontrend', 'instafashion', 'palm', '']","['palm', 'beach', 'beach', 'fashion', 'fashionable', 'fashionaddict', 'fashionblogger', 'fashionbloggers', 'fashiongram', 'fashionicon', 'fashioninspo', 'fashionista', 'fashionistas', 'fashionlove', 'fashionlovers', 'fashionpost', 'fashionstyle', 'fashiontrends', 'instafashion', 'palm', '']"
+fashiontrends,"AZORTE...
+Shop the trendy Indian wear collection
+
+📌Visit Azorte Store, 1MG Lido Mall, MG Road, Bengaluru
+For details call 8147579347
+All our staffs are fully vaccinated.💯% safe and hygienic ✅
+
+#forfashionfirsts
+#FashionNeoStore​
+#Fashion #Style #Fashiontrends
+#IndianWear ","AZORTE
+Shop the trendy Indian wear collection
+
+Visit Azorte Store 1MG Lido Mall MG Road Bengaluru
+For details call 8147579347
+All our staffs are fully vaccinated safe and hygienic 
+
+forfashionfirsts
+FashionNeoStore
+Fashion Style Fashiontrends
+IndianWear ","['azorte', 'shop', 'the', 'trendy', 'indian', 'wear', 'collection', 'visit', 'azorte', 'store', '1mg', 'lido', 'mall', 'mg', 'road', 'bengaluru', 'for', 'details', 'call', '8147579347', 'all', 'our', 'staffs', 'are', 'fully', 'vaccinated', 'safe', 'and', 'hygienic', 'forfashionfirsts', 'fashionneostore', 'fashion', 'style', 'fashiontrends', 'indianwear', '']","['azorte', 'shop', 'trendy', 'indian', 'wear', 'collection', 'visit', 'azorte', 'store', '1mg', 'lido', 'mall', 'mg', 'road', 'bengaluru', 'details', 'call', '8147579347', 'staffs', 'fully', 'vaccinated', 'safe', 'hygienic', 'forfashionfirsts', 'fashionneostore', 'fashion', 'style', 'fashiontrends', 'indianwear', '']","['azort', 'shop', 'trendi', 'indian', 'wear', 'collect', 'visit', 'azort', 'store', '1mg', 'lido', 'mall', 'mg', 'road', 'bengaluru', 'detail', 'call', '8147579347', 'staff', 'fulli', 'vaccin', 'safe', 'hygien', 'forfashionfirst', 'fashionneostor', 'fashion', 'style', 'fashiontrend', 'indianwear', '']","['azorte', 'shop', 'trendy', 'indian', 'wear', 'collection', 'visit', 'azorte', 'store', '1mg', 'lido', 'mall', 'mg', 'road', 'bengaluru', 'detail', 'call', '8147579347', 'staff', 'fully', 'vaccinated', 'safe', 'hygienic', 'forfashionfirsts', 'fashionneostore', 'fashion', 'style', 'fashiontrends', 'indianwear', '']"
+fashiontrends,"Naira shopping : Printed Men white Tshirt 👕👕❤️❤️🛍️🛍️ 
+#fashiontrends
+#fashionstyle
+#printedmen
+#whiteTshirt
+#menfashion 
+#Menstyle
+#collection ","Naira shopping  Printed Men white Tshirt  
+fashiontrends
+fashionstyle
+printedmen
+whiteTshirt
+menfashion 
+Menstyle
+collection ","['naira', 'shopping', 'printed', 'men', 'white', 'tshirt', 'fashiontrends', 'fashionstyle', 'printedmen', 'whitetshirt', 'menfashion', 'menstyle', 'collection', '']","['naira', 'shopping', 'printed', 'men', 'white', 'tshirt', 'fashiontrends', 'fashionstyle', 'printedmen', 'whitetshirt', 'menfashion', 'menstyle', 'collection', '']","['naira', 'shop', 'print', 'men', 'white', 'tshirt', 'fashiontrend', 'fashionstyl', 'printedmen', 'whitetshirt', 'menfashion', 'menstyl', 'collect', '']","['naira', 'shopping', 'printed', 'men', 'white', 'tshirt', 'fashiontrends', 'fashionstyle', 'printedmen', 'whitetshirt', 'menfashion', 'menstyle', 'collection', '']"
+fashiontrends,"Women's Sports Jacket Armani Jeans!
+(on sale - check store for details)
+#sportswear #fashionblogger #fashiontrends #designerwear #myconabu #jackets
+
+Hurry while stock lasts!  ","Womens Sports Jacket Armani Jeans
+on sale  check store for details
+sportswear fashionblogger fashiontrends designerwear myconabu jackets
+
+Hurry while stock lasts  ","['womens', 'sports', 'jacket', 'armani', 'jeans', 'on', 'sale', 'check', 'store', 'for', 'details', 'sportswear', 'fashionblogger', 'fashiontrends', 'designerwear', 'myconabu', 'jackets', 'hurry', 'while', 'stock', 'lasts', '']","['womens', 'sports', 'jacket', 'armani', 'jeans', 'sale', 'check', 'store', 'details', 'sportswear', 'fashionblogger', 'fashiontrends', 'designerwear', 'myconabu', 'jackets', 'hurry', 'stock', 'lasts', '']","['women', 'sport', 'jacket', 'armani', 'jean', 'sale', 'check', 'store', 'detail', 'sportswear', 'fashionblogg', 'fashiontrend', 'designerwear', 'myconabu', 'jacket', 'hurri', 'stock', 'last', '']","['woman', 'sport', 'jacket', 'armani', 'jean', 'sale', 'check', 'store', 'detail', 'sportswear', 'fashionblogger', 'fashiontrends', 'designerwear', 'myconabu', 'jacket', 'hurry', 'stock', 'last', '']"
+fashiontrends,"#PRETTYGARDEN Women's Summer Casual Deep V Neck
+
+#fashionstylist #woman #Jewellry #womanfashion #clothe #clothes
+#fashion #fashionblogger #womenstyle #fashiontrends
+#amazonseller #amazondeals #AmazonBestSeller #amazonprime #accessories #accessory #USA","PRETTYGARDEN Womens Summer Casual Deep V Neck
+
+fashionstylist woman Jewellry womanfashion clothe clothes
+fashion fashionblogger womenstyle fashiontrends
+amazonseller amazondeals AmazonBestSeller amazonprime accessories accessory USA","['prettygarden', 'womens', 'summer', 'casual', 'deep', 'v', 'neck', 'fashionstylist', 'woman', 'jewellry', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessories', 'accessory', 'usa']","['prettygarden', 'womens', 'summer', 'casual', 'deep', 'v', 'neck', 'fashionstylist', 'woman', 'jewellry', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessories', 'accessory', 'usa']","['prettygarden', 'women', 'summer', 'casual', 'deep', 'v', 'neck', 'fashionstylist', 'woman', 'jewellri', 'womanfashion', 'cloth', 'cloth', 'fashion', 'fashionblogg', 'womenstyl', 'fashiontrend', 'amazonsel', 'amazond', 'amazonbestsel', 'amazonprim', 'accessori', 'accessori', 'usa']","['prettygarden', 'woman', 'summer', 'casual', 'deep', 'v', 'neck', 'fashionstylist', 'woman', 'jewellry', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessory', 'accessory', 'usa']"
+fashiontrends,"Hanging out with my friend to a disguised party. 💙 We nailed our outfit, everyone loves it!🔥
+
+#heartjacking #ledmask #lightupmask #mask #customizable #programmable #accessory #led #party #Halloween #horror #events #partytime #costume #autumn #fashiontrends #accessories #fashion ","Hanging out with my friend to a disguised party  We nailed our outfit everyone loves it
+
+heartjacking ledmask lightupmask mask customizable programmable accessory led party Halloween horror events partytime costume autumn fashiontrends accessories fashion ","['hanging', 'out', 'with', 'my', 'friend', 'to', 'a', 'disguised', 'party', 'we', 'nailed', 'our', 'outfit', 'everyone', 'loves', 'it', 'heartjacking', 'ledmask', 'lightupmask', 'mask', 'customizable', 'programmable', 'accessory', 'led', 'party', 'halloween', 'horror', 'events', 'partytime', 'costume', 'autumn', 'fashiontrends', 'accessories', 'fashion', '']","['hanging', 'friend', 'disguised', 'party', 'nailed', 'outfit', 'everyone', 'loves', 'heartjacking', 'ledmask', 'lightupmask', 'mask', 'customizable', 'programmable', 'accessory', 'led', 'party', 'halloween', 'horror', 'events', 'partytime', 'costume', 'autumn', 'fashiontrends', 'accessories', 'fashion', '']","['hang', 'friend', 'disguis', 'parti', 'nail', 'outfit', 'everyon', 'love', 'heartjack', 'ledmask', 'lightupmask', 'mask', 'customiz', 'programm', 'accessori', 'led', 'parti', 'halloween', 'horror', 'event', 'partytim', 'costum', 'autumn', 'fashiontrend', 'accessori', 'fashion', '']","['hanging', 'friend', 'disguised', 'party', 'nailed', 'outfit', 'everyone', 'love', 'heartjacking', 'ledmask', 'lightupmask', 'mask', 'customizable', 'programmable', 'accessory', 'led', 'party', 'halloween', 'horror', 'event', 'partytime', 'costume', 'autumn', 'fashiontrends', 'accessory', 'fashion', '']"
+fashiontrends,"#AUTOMET #Women's Casual Plaid Shacket #shirt
+
+#fashionstylist #woman #Jewellry #womanfashion #clothe #clothes
+#fashion #fashionblogger #womenstyle #fashiontrends
+#amazonseller #amazondeals #AmazonBestSeller #amazonprime #accessories #accessory #USA","AUTOMET Womens Casual Plaid Shacket shirt
+
+fashionstylist woman Jewellry womanfashion clothe clothes
+fashion fashionblogger womenstyle fashiontrends
+amazonseller amazondeals AmazonBestSeller amazonprime accessories accessory USA","['automet', 'womens', 'casual', 'plaid', 'shacket', 'shirt', 'fashionstylist', 'woman', 'jewellry', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessories', 'accessory', 'usa']","['automet', 'womens', 'casual', 'plaid', 'shacket', 'shirt', 'fashionstylist', 'woman', 'jewellry', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessories', 'accessory', 'usa']","['automet', 'women', 'casual', 'plaid', 'shacket', 'shirt', 'fashionstylist', 'woman', 'jewellri', 'womanfashion', 'cloth', 'cloth', 'fashion', 'fashionblogg', 'womenstyl', 'fashiontrend', 'amazonsel', 'amazond', 'amazonbestsel', 'amazonprim', 'accessori', 'accessori', 'usa']","['automet', 'woman', 'casual', 'plaid', 'shacket', 'shirt', 'fashionstylist', 'woman', 'jewellry', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessory', 'accessory', 'usa']"
+fashiontrends,"#Tiffany &amp; Co Round Cut Solitaire #Diamond #Engagement #Ring
+
+#dress #clothes #clothesline #fashionstylist #women #jewelrydesigner #jewelrydesign
+#fashion #fashionblogger #fashioninspiration #womenstyle #fashiontrends #accessories #Accessory #jewellry #usa","Tiffany amp Co Round Cut Solitaire Diamond Engagement Ring
+
+dress clothes clothesline fashionstylist women jewelrydesigner jewelrydesign
+fashion fashionblogger fashioninspiration womenstyle fashiontrends accessories Accessory jewellry usa","['tiffany', 'amp', 'co', 'round', 'cut', 'solitaire', 'diamond', 'engagement', 'ring', 'dress', 'clothes', 'clothesline', 'fashionstylist', 'women', 'jewelrydesigner', 'jewelrydesign', 'fashion', 'fashionblogger', 'fashioninspiration', 'womenstyle', 'fashiontrends', 'accessories', 'accessory', 'jewellry', 'usa']","['tiffany', 'amp', 'co', 'round', 'cut', 'solitaire', 'diamond', 'engagement', 'ring', 'dress', 'clothes', 'clothesline', 'fashionstylist', 'women', 'jewelrydesigner', 'jewelrydesign', 'fashion', 'fashionblogger', 'fashioninspiration', 'womenstyle', 'fashiontrends', 'accessories', 'accessory', 'jewellry', 'usa']","['tiffani', 'amp', 'co', 'round', 'cut', 'solitair', 'diamond', 'engag', 'ring', 'dress', 'cloth', 'clotheslin', 'fashionstylist', 'women', 'jewelrydesign', 'jewelrydesign', 'fashion', 'fashionblogg', 'fashioninspir', 'womenstyl', 'fashiontrend', 'accessori', 'accessori', 'jewellri', 'usa']","['tiffany', 'amp', 'co', 'round', 'cut', 'solitaire', 'diamond', 'engagement', 'ring', 'dress', 'clothes', 'clothesline', 'fashionstylist', 'woman', 'jewelrydesigner', 'jewelrydesign', 'fashion', 'fashionblogger', 'fashioninspiration', 'womenstyle', 'fashiontrends', 'accessory', 'accessory', 'jewellry', 'usa']"
+fashiontrends,"The rani pink organza silk saree worn by Aditi Rao Hydari is beautiful.
+
+
+#AditiRaoHydari #AditiRao #silksaree #fashion #fashiontrends @aditiraohydari ","The rani pink organza silk saree worn by Aditi Rao Hydari is beautiful
+
+
+AditiRaoHydari AditiRao silksaree fashion fashiontrends aditiraohydari ","['the', 'rani', 'pink', 'organza', 'silk', 'saree', 'worn', 'by', 'aditi', 'rao', 'hydari', 'is', 'beautiful', 'aditiraohydari', 'aditirao', 'silksaree', 'fashion', 'fashiontrends', 'aditiraohydari', '']","['rani', 'pink', 'organza', 'silk', 'saree', 'worn', 'aditi', 'rao', 'hydari', 'beautiful', 'aditiraohydari', 'aditirao', 'silksaree', 'fashion', 'fashiontrends', 'aditiraohydari', '']","['rani', 'pink', 'organza', 'silk', 'sare', 'worn', 'aditi', 'rao', 'hydari', 'beauti', 'aditiraohydari', 'aditirao', 'silksare', 'fashion', 'fashiontrend', 'aditiraohydari', '']","['rani', 'pink', 'organza', 'silk', 'saree', 'worn', 'aditi', 'rao', 'hydari', 'beautiful', 'aditiraohydari', 'aditirao', 'silksaree', 'fashion', 'fashiontrends', 'aditiraohydari', '']"
+fashiontrends,"Tamannaah Bhatia looks stunning in a monochromatic patterned top.
+
+
+#TamannaahBhatia #Tamannaah #bollywood #bollywoodactress #fashion #fashiontrends @tamannaahspeaks ","Tamannaah Bhatia looks stunning in a monochromatic patterned top
+
+
+TamannaahBhatia Tamannaah bollywood bollywoodactress fashion fashiontrends tamannaahspeaks ","['tamannaah', 'bhatia', 'looks', 'stunning', 'in', 'a', 'monochromatic', 'patterned', 'top', 'tamannaahbhatia', 'tamannaah', 'bollywood', 'bollywoodactress', 'fashion', 'fashiontrends', 'tamannaahspeaks', '']","['tamannaah', 'bhatia', 'looks', 'stunning', 'monochromatic', 'patterned', 'top', 'tamannaahbhatia', 'tamannaah', 'bollywood', 'bollywoodactress', 'fashion', 'fashiontrends', 'tamannaahspeaks', '']","['tamannaah', 'bhatia', 'look', 'stun', 'monochromat', 'pattern', 'top', 'tamannaahbhatia', 'tamannaah', 'bollywood', 'bollywoodactress', 'fashion', 'fashiontrend', 'tamannaahspeak', '']","['tamannaah', 'bhatia', 'look', 'stunning', 'monochromatic', 'patterned', 'top', 'tamannaahbhatia', 'tamannaah', 'bollywood', 'bollywoodactress', 'fashion', 'fashiontrends', 'tamannaahspeaks', '']"
+fashiontrends,"5 Trendy Ways To Break The Monotony &amp; Ace The Mismatched Trend
+
+Read here: 
+
+#mismatched #mismatchedoutfits #fashion #fashiontrends #style #outfitoftheday #outfit","5 Trendy Ways To Break The Monotony amp Ace The Mismatched Trend
+
+Read here 
+
+mismatched mismatchedoutfits fashion fashiontrends style outfitoftheday outfit","['5', 'trendy', 'ways', 'to', 'break', 'the', 'monotony', 'amp', 'ace', 'the', 'mismatched', 'trend', 'read', 'here', 'mismatched', 'mismatchedoutfits', 'fashion', 'fashiontrends', 'style', 'outfitoftheday', 'outfit']","['5', 'trendy', 'ways', 'break', 'monotony', 'amp', 'ace', 'mismatched', 'trend', 'read', 'mismatched', 'mismatchedoutfits', 'fashion', 'fashiontrends', 'style', 'outfitoftheday', 'outfit']","['5', 'trendi', 'way', 'break', 'monotoni', 'amp', 'ace', 'mismatch', 'trend', 'read', 'mismatch', 'mismatchedoutfit', 'fashion', 'fashiontrend', 'style', 'outfitoftheday', 'outfit']","['5', 'trendy', 'way', 'break', 'monotony', 'amp', 'ace', 'mismatched', 'trend', 'read', 'mismatched', 'mismatchedoutfits', 'fashion', 'fashiontrends', 'style', 'outfitoftheday', 'outfit']"
+fashiontrends,"Really cute kuromi look!
+#kuromi #kuromiaesthetic #kuromiandmymelody #kuromioutfit #kuromicore #sanrio #hellokitty #purple #offwhite #offwhiteshoes #backpack #fashion #fashioninspo #fashioninspiration #fashiontrends #outfit #outfits #outfitinspiration #outfitinspo #style ","Really cute kuromi look
+kuromi kuromiaesthetic kuromiandmymelody kuromioutfit kuromicore sanrio hellokitty purple offwhite offwhiteshoes backpack fashion fashioninspo fashioninspiration fashiontrends outfit outfits outfitinspiration outfitinspo style ","['really', 'cute', 'kuromi', 'look', 'kuromi', 'kuromiaesthetic', 'kuromiandmymelody', 'kuromioutfit', 'kuromicore', 'sanrio', 'hellokitty', 'purple', 'offwhite', 'offwhiteshoes', 'backpack', 'fashion', 'fashioninspo', 'fashioninspiration', 'fashiontrends', 'outfit', 'outfits', 'outfitinspiration', 'outfitinspo', 'style', '']","['really', 'cute', 'kuromi', 'look', 'kuromi', 'kuromiaesthetic', 'kuromiandmymelody', 'kuromioutfit', 'kuromicore', 'sanrio', 'hellokitty', 'purple', 'offwhite', 'offwhiteshoes', 'backpack', 'fashion', 'fashioninspo', 'fashioninspiration', 'fashiontrends', 'outfit', 'outfits', 'outfitinspiration', 'outfitinspo', 'style', '']","['realli', 'cute', 'kuromi', 'look', 'kuromi', 'kuromiaesthet', 'kuromiandmymelodi', 'kuromioutfit', 'kuromicor', 'sanrio', 'hellokitti', 'purpl', 'offwhit', 'offwhitesho', 'backpack', 'fashion', 'fashioninspo', 'fashioninspir', 'fashiontrend', 'outfit', 'outfit', 'outfitinspir', 'outfitinspo', 'style', '']","['really', 'cute', 'kuromi', 'look', 'kuromi', 'kuromiaesthetic', 'kuromiandmymelody', 'kuromioutfit', 'kuromicore', 'sanrio', 'hellokitty', 'purple', 'offwhite', 'offwhiteshoes', 'backpack', 'fashion', 'fashioninspo', 'fashioninspiration', 'fashiontrends', 'outfit', 'outfit', 'outfitinspiration', 'outfitinspo', 'style', '']"
+fashiontrends,Look at that fabric!! Wow. This is our Ruth Holding Court a-line skirt WITH POCKETS! @templeofgeek @templeofgeekchic #geekfashion #nerd #nerdlife #nerdgirl #fashion #fashionnova #fashiondesigner #fashionista #fashionaddict #fashiontrends #amazonfashion #amazondeals #cosplay #boun ,Look at that fabric Wow This is our Ruth Holding Court aline skirt WITH POCKETS templeofgeek templeofgeekchic geekfashion nerd nerdlife nerdgirl fashion fashionnova fashiondesigner fashionista fashionaddict fashiontrends amazonfashion amazondeals cosplay boun ,"['look', 'at', 'that', 'fabric', 'wow', 'this', 'is', 'our', 'ruth', 'holding', 'court', 'aline', 'skirt', 'with', 'pockets', 'templeofgeek', 'templeofgeekchic', 'geekfashion', 'nerd', 'nerdlife', 'nerdgirl', 'fashion', 'fashionnova', 'fashiondesigner', 'fashionista', 'fashionaddict', 'fashiontrends', 'amazonfashion', 'amazondeals', 'cosplay', 'boun', '']","['look', 'fabric', 'wow', 'ruth', 'holding', 'court', 'aline', 'skirt', 'pockets', 'templeofgeek', 'templeofgeekchic', 'geekfashion', 'nerd', 'nerdlife', 'nerdgirl', 'fashion', 'fashionnova', 'fashiondesigner', 'fashionista', 'fashionaddict', 'fashiontrends', 'amazonfashion', 'amazondeals', 'cosplay', 'boun', '']","['look', 'fabric', 'wow', 'ruth', 'hold', 'court', 'alin', 'skirt', 'pocket', 'templeofgeek', 'templeofgeekch', 'geekfashion', 'nerd', 'nerdlif', 'nerdgirl', 'fashion', 'fashionnova', 'fashiondesign', 'fashionista', 'fashionaddict', 'fashiontrend', 'amazonfashion', 'amazond', 'cosplay', 'boun', '']","['look', 'fabric', 'wow', 'ruth', 'holding', 'court', 'aline', 'skirt', 'pocket', 'templeofgeek', 'templeofgeekchic', 'geekfashion', 'nerd', 'nerdlife', 'nerdgirl', 'fashion', 'fashionnova', 'fashiondesigner', 'fashionista', 'fashionaddict', 'fashiontrends', 'amazonfashion', 'amazondeals', 'cosplay', 'boun', '']"
+fashiontrends,Fall 2022 Wishlist #fashiontrends #fall2022fashiontrends  via @YouTube #fallstyle #fallfashion #newyoutube #newvideo,Fall 2022 Wishlist fashiontrends fall2022fashiontrends  via YouTube fallstyle fallfashion newyoutube newvideo,"['fall', '2022', 'wishlist', 'fashiontrends', 'fall2022fashiontrends', 'via', 'youtube', 'fallstyle', 'fallfashion', 'newyoutube', 'newvideo']","['fall', '2022', 'wishlist', 'fashiontrends', 'fall2022fashiontrends', 'via', 'youtube', 'fallstyle', 'fallfashion', 'newyoutube', 'newvideo']","['fall', '2022', 'wishlist', 'fashiontrend', 'fall2022fashiontrend', 'via', 'youtub', 'fallstyl', 'fallfashion', 'newyoutub', 'newvideo']","['fall', '2022', 'wishlist', 'fashiontrends', 'fall2022fashiontrends', 'via', 'youtube', 'fallstyle', 'fallfashion', 'newyoutube', 'newvideo']"
+fashiontrends,Fall 2022 Wishlist #fashiontrends #fall2022fashiontrends  via @YouTube #smallyoutuber #smallyoutubercommunity  #youtuber #bewyoutuber #fallfashion #fashioncreator,Fall 2022 Wishlist fashiontrends fall2022fashiontrends  via YouTube smallyoutuber smallyoutubercommunity  youtuber bewyoutuber fallfashion fashioncreator,"['fall', '2022', 'wishlist', 'fashiontrends', 'fall2022fashiontrends', 'via', 'youtube', 'smallyoutuber', 'smallyoutubercommunity', 'youtuber', 'bewyoutuber', 'fallfashion', 'fashioncreator']","['fall', '2022', 'wishlist', 'fashiontrends', 'fall2022fashiontrends', 'via', 'youtube', 'smallyoutuber', 'smallyoutubercommunity', 'youtuber', 'bewyoutuber', 'fallfashion', 'fashioncreator']","['fall', '2022', 'wishlist', 'fashiontrend', 'fall2022fashiontrend', 'via', 'youtub', 'smallyoutub', 'smallyoutubercommun', 'youtub', 'bewyoutub', 'fallfashion', 'fashioncr']","['fall', '2022', 'wishlist', 'fashiontrends', 'fall2022fashiontrends', 'via', 'youtube', 'smallyoutuber', 'smallyoutubercommunity', 'youtuber', 'bewyoutuber', 'fallfashion', 'fashioncreator']"
+fashiontrends,"Push-Up Jeans with Lifting Effect
+
+$ 28.00
+
+FREE DELIVERY on all orders
+
+Get it here ——&gt; 
+
+#apparel #fashionaddict #fashiontrends #luxurystoress ","PushUp Jeans with Lifting Effect
+
+ 2800
+
+FREE DELIVERY on all orders
+
+Get it here gt 
+
+apparel fashionaddict fashiontrends luxurystoress ","['pushup', 'jeans', 'with', 'lifting', 'effect', '2800', 'free', 'delivery', 'on', 'all', 'orders', 'get', 'it', 'here', 'gt', 'apparel', 'fashionaddict', 'fashiontrends', 'luxurystoress', '']","['pushup', 'jeans', 'lifting', 'effect', '2800', 'free', 'delivery', 'orders', 'get', 'gt', 'apparel', 'fashionaddict', 'fashiontrends', 'luxurystoress', '']","['pushup', 'jean', 'lift', 'effect', '2800', 'free', 'deliveri', 'order', 'get', 'gt', 'apparel', 'fashionaddict', 'fashiontrend', 'luxurystoress', '']","['pushup', 'jean', 'lifting', 'effect', '2800', 'free', 'delivery', 'order', 'get', 'gt', 'apparel', 'fashionaddict', 'fashiontrends', 'luxurystoress', '']"
+fashiontrends,"Our ""Women's Long Sleeve Crop Top"" is handcrafted with cotton french terry styled with distressed edges for a relaxed fit.  
+
+#womensstyle #fashiondaily #fashiontrends #fashionoutfits #womensfashionstyle #womenstyleguide #styleaddict #fashiongoals #croptop #fallcollection ","Our Womens Long Sleeve Crop Top is handcrafted with cotton french terry styled with distressed edges for a relaxed fit  
+
+womensstyle fashiondaily fashiontrends fashionoutfits womensfashionstyle womenstyleguide styleaddict fashiongoals croptop fallcollection ","['our', 'womens', 'long', 'sleeve', 'crop', 'top', 'is', 'handcrafted', 'with', 'cotton', 'french', 'terry', 'styled', 'with', 'distressed', 'edges', 'for', 'a', 'relaxed', 'fit', 'womensstyle', 'fashiondaily', 'fashiontrends', 'fashionoutfits', 'womensfashionstyle', 'womenstyleguide', 'styleaddict', 'fashiongoals', 'croptop', 'fallcollection', '']","['womens', 'long', 'sleeve', 'crop', 'top', 'handcrafted', 'cotton', 'french', 'terry', 'styled', 'distressed', 'edges', 'relaxed', 'fit', 'womensstyle', 'fashiondaily', 'fashiontrends', 'fashionoutfits', 'womensfashionstyle', 'womenstyleguide', 'styleaddict', 'fashiongoals', 'croptop', 'fallcollection', '']","['women', 'long', 'sleev', 'crop', 'top', 'handcraft', 'cotton', 'french', 'terri', 'style', 'distress', 'edg', 'relax', 'fit', 'womensstyl', 'fashiondaili', 'fashiontrend', 'fashionoutfit', 'womensfashionstyl', 'womenstyleguid', 'styleaddict', 'fashiongo', 'croptop', 'fallcollect', '']","['woman', 'long', 'sleeve', 'crop', 'top', 'handcrafted', 'cotton', 'french', 'terry', 'styled', 'distressed', 'edge', 'relaxed', 'fit', 'womensstyle', 'fashiondaily', 'fashiontrends', 'fashionoutfits', 'womensfashionstyle', 'womenstyleguide', 'styleaddict', 'fashiongoals', 'croptop', 'fallcollection', '']"
+fashiontrends,"🧥 It is finally #trench coat season again and I am so ready to never take mine off! Check out my all-time faves here:
+
+
+
+#fallfashion #autumnfashion #trenchcoat #fashiontrends #london #strolling #fall #autumn "," It is finally trench coat season again and I am so ready to never take mine off Check out my alltime faves here
+
+
+
+fallfashion autumnfashion trenchcoat fashiontrends london strolling fall autumn ","['', 'it', 'is', 'finally', 'trench', 'coat', 'season', 'again', 'and', 'i', 'am', 'so', 'ready', 'to', 'never', 'take', 'mine', 'off', 'check', 'out', 'my', 'alltime', 'faves', 'here', 'fallfashion', 'autumnfashion', 'trenchcoat', 'fashiontrends', 'london', 'strolling', 'fall', 'autumn', '']","['', 'finally', 'trench', 'coat', 'season', 'ready', 'never', 'take', 'mine', 'check', 'alltime', 'faves', 'fallfashion', 'autumnfashion', 'trenchcoat', 'fashiontrends', 'london', 'strolling', 'fall', 'autumn', '']","['', 'final', 'trench', 'coat', 'season', 'readi', 'never', 'take', 'mine', 'check', 'alltim', 'fave', 'fallfashion', 'autumnfashion', 'trenchcoat', 'fashiontrend', 'london', 'stroll', 'fall', 'autumn', '']","['', 'finally', 'trench', 'coat', 'season', 'ready', 'never', 'take', 'mine', 'check', 'alltime', 'faves', 'fallfashion', 'autumnfashion', 'trenchcoat', 'fashiontrends', 'london', 'strolling', 'fall', 'autumn', '']"
+fashiontrends,"PURPLE HITS - #fashion #fashionable #fashionaddict #fashionblogger #fashionbloggers #fashiongram #fashionicon #fashioninspo #fashionista #fashionistas #fashionlove #fashionlovers #fashionpost #fashionstyle #fashiontrends #Hits #instafashion #Purple - ...
+","PURPLE HITS  fashion fashionable fashionaddict fashionblogger fashionbloggers fashiongram fashionicon fashioninspo fashionista fashionistas fashionlove fashionlovers fashionpost fashionstyle fashiontrends Hits instafashion Purple  
+","['purple', 'hits', 'fashion', 'fashionable', 'fashionaddict', 'fashionblogger', 'fashionbloggers', 'fashiongram', 'fashionicon', 'fashioninspo', 'fashionista', 'fashionistas', 'fashionlove', 'fashionlovers', 'fashionpost', 'fashionstyle', 'fashiontrends', 'hits', 'instafashion', 'purple', '']","['purple', 'hits', 'fashion', 'fashionable', 'fashionaddict', 'fashionblogger', 'fashionbloggers', 'fashiongram', 'fashionicon', 'fashioninspo', 'fashionista', 'fashionistas', 'fashionlove', 'fashionlovers', 'fashionpost', 'fashionstyle', 'fashiontrends', 'hits', 'instafashion', 'purple', '']","['purpl', 'hit', 'fashion', 'fashion', 'fashionaddict', 'fashionblogg', 'fashionblogg', 'fashiongram', 'fashionicon', 'fashioninspo', 'fashionista', 'fashionista', 'fashionlov', 'fashionlov', 'fashionpost', 'fashionstyl', 'fashiontrend', 'hit', 'instafashion', 'purpl', '']","['purple', 'hit', 'fashion', 'fashionable', 'fashionaddict', 'fashionblogger', 'fashionbloggers', 'fashiongram', 'fashionicon', 'fashioninspo', 'fashionista', 'fashionistas', 'fashionlove', 'fashionlovers', 'fashionpost', 'fashionstyle', 'fashiontrends', 'hit', 'instafashion', 'purple', '']"
+fashiontrends,"Naira shopping : Stylogue printed round neck T-Shirt 🛍️🛍️❤️❤️👕👕 
+#fashiontrends
+#stylogueprinted
+#roundnecktshirt
+#fashionstyle 
+#fashionista 
+#collection2022 ","Naira shopping  Stylogue printed round neck TShirt  
+fashiontrends
+stylogueprinted
+roundnecktshirt
+fashionstyle 
+fashionista 
+collection2022 ","['naira', 'shopping', 'stylogue', 'printed', 'round', 'neck', 'tshirt', 'fashiontrends', 'stylogueprinted', 'roundnecktshirt', 'fashionstyle', 'fashionista', 'collection2022', '']","['naira', 'shopping', 'stylogue', 'printed', 'round', 'neck', 'tshirt', 'fashiontrends', 'stylogueprinted', 'roundnecktshirt', 'fashionstyle', 'fashionista', 'collection2022', '']","['naira', 'shop', 'stylogu', 'print', 'round', 'neck', 'tshirt', 'fashiontrend', 'stylogueprint', 'roundnecktshirt', 'fashionstyl', 'fashionista', 'collection2022', '']","['naira', 'shopping', 'stylogue', 'printed', 'round', 'neck', 'tshirt', 'fashiontrends', 'stylogueprinted', 'roundnecktshirt', 'fashionstyle', 'fashionista', 'collection2022', '']"
+fashiontrends,"Satin blouse + distressed denim = PERFECT!
+Shop in-store or online w/free shipping 
+#allinspired #johnscreek #blouse #tops #fallfashion #fallstyle #fashiontrends #ootd #outfits #whattowear #weekendstyle #boutiquestyle #shoplocal #shopsmall ","Satin blouse  distressed denim  PERFECT
+Shop instore or online wfree shipping 
+allinspired johnscreek blouse tops fallfashion fallstyle fashiontrends ootd outfits whattowear weekendstyle boutiquestyle shoplocal shopsmall ","['satin', 'blouse', 'distressed', 'denim', 'perfect', 'shop', 'instore', 'or', 'online', 'wfree', 'shipping', 'allinspired', 'johnscreek', 'blouse', 'tops', 'fallfashion', 'fallstyle', 'fashiontrends', 'ootd', 'outfits', 'whattowear', 'weekendstyle', 'boutiquestyle', 'shoplocal', 'shopsmall', '']","['satin', 'blouse', 'distressed', 'denim', 'perfect', 'shop', 'instore', 'online', 'wfree', 'shipping', 'allinspired', 'johnscreek', 'blouse', 'tops', 'fallfashion', 'fallstyle', 'fashiontrends', 'ootd', 'outfits', 'whattowear', 'weekendstyle', 'boutiquestyle', 'shoplocal', 'shopsmall', '']","['satin', 'blous', 'distress', 'denim', 'perfect', 'shop', 'instor', 'onlin', 'wfree', 'ship', 'allinspir', 'johnscreek', 'blous', 'top', 'fallfashion', 'fallstyl', 'fashiontrend', 'ootd', 'outfit', 'whattowear', 'weekendstyl', 'boutiquestyl', 'shoploc', 'shopsmal', '']","['satin', 'blouse', 'distressed', 'denim', 'perfect', 'shop', 'instore', 'online', 'wfree', 'shipping', 'allinspired', 'johnscreek', 'blouse', 'top', 'fallfashion', 'fallstyle', 'fashiontrends', 'ootd', 'outfit', 'whattowear', 'weekendstyle', 'boutiquestyle', 'shoplocal', 'shopsmall', '']"
+fashiontrends,"AZORTE. Everyday Street Wear​
+
+Look and feel breezy in a hint of urban, a dash of natural, and a whole lot of Bohemian.​​
+
+#StreetWear #bohemian #urban
+#forfashionfirsts
+#FashionNeoStore​
+#Fashion #Style #Fashiontrends ","AZORTE Everyday Street Wear
+
+Look and feel breezy in a hint of urban a dash of natural and a whole lot of Bohemian
+
+StreetWear bohemian urban
+forfashionfirsts
+FashionNeoStore
+Fashion Style Fashiontrends ","['azorte', 'everyday', 'street', 'wear', 'look', 'and', 'feel', 'breezy', 'in', 'a', 'hint', 'of', 'urban', 'a', 'dash', 'of', 'natural', 'and', 'a', 'whole', 'lot', 'of', 'bohemian', 'streetwear', 'bohemian', 'urban', 'forfashionfirsts', 'fashionneostore', 'fashion', 'style', 'fashiontrends', '']","['azorte', 'everyday', 'street', 'wear', 'look', 'feel', 'breezy', 'hint', 'urban', 'dash', 'natural', 'whole', 'lot', 'bohemian', 'streetwear', 'bohemian', 'urban', 'forfashionfirsts', 'fashionneostore', 'fashion', 'style', 'fashiontrends', '']","['azort', 'everyday', 'street', 'wear', 'look', 'feel', 'breezi', 'hint', 'urban', 'dash', 'natur', 'whole', 'lot', 'bohemian', 'streetwear', 'bohemian', 'urban', 'forfashionfirst', 'fashionneostor', 'fashion', 'style', 'fashiontrend', '']","['azorte', 'everyday', 'street', 'wear', 'look', 'feel', 'breezy', 'hint', 'urban', 'dash', 'natural', 'whole', 'lot', 'bohemian', 'streetwear', 'bohemian', 'urban', 'forfashionfirsts', 'fashionneostore', 'fashion', 'style', 'fashiontrends', '']"
+fashiontrends,"So many statement bag styles are headed our way, and we've got all the deets on the most covetable trends...
+- - - 
+#fashion #fashiontrends #streetstyle #streetfashion #bags #streetwear #resellumnews #bagstrends #trendalert #fw2023 #trends2023
+","So many statement bag styles are headed our way and weve got all the deets on the most covetable trends
+   
+fashion fashiontrends streetstyle streetfashion bags streetwear resellumnews bagstrends trendalert fw2023 trends2023
+","['so', 'many', 'statement', 'bag', 'styles', 'are', 'headed', 'our', 'way', 'and', 'weve', 'got', 'all', 'the', 'deets', 'on', 'the', 'most', 'covetable', 'trends', 'fashion', 'fashiontrends', 'streetstyle', 'streetfashion', 'bags', 'streetwear', 'resellumnews', 'bagstrends', 'trendalert', 'fw2023', 'trends2023', '']","['many', 'statement', 'bag', 'styles', 'headed', 'way', 'weve', 'got', 'deets', 'covetable', 'trends', 'fashion', 'fashiontrends', 'streetstyle', 'streetfashion', 'bags', 'streetwear', 'resellumnews', 'bagstrends', 'trendalert', 'fw2023', 'trends2023', '']","['mani', 'statement', 'bag', 'style', 'head', 'way', 'weve', 'got', 'deet', 'covet', 'trend', 'fashion', 'fashiontrend', 'streetstyl', 'streetfashion', 'bag', 'streetwear', 'resellumnew', 'bagstrend', 'trendalert', 'fw2023', 'trends2023', '']","['many', 'statement', 'bag', 'style', 'headed', 'way', 'weve', 'got', 'deets', 'covetable', 'trend', 'fashion', 'fashiontrends', 'streetstyle', 'streetfashion', 'bag', 'streetwear', 'resellumnews', 'bagstrends', 'trendalert', 'fw2023', 'trends2023', '']"
+fashiontrends,How to update your fall wardrobe  #Stylempower #style #fashion #fashiontrends #fallfashiontrends #fallfashionupdate,How to update your fall wardrobe  Stylempower style fashion fashiontrends fallfashiontrends fallfashionupdate,"['how', 'to', 'update', 'your', 'fall', 'wardrobe', 'stylempower', 'style', 'fashion', 'fashiontrends', 'fallfashiontrends', 'fallfashionupdate']","['update', 'fall', 'wardrobe', 'stylempower', 'style', 'fashion', 'fashiontrends', 'fallfashiontrends', 'fallfashionupdate']","['updat', 'fall', 'wardrob', 'stylempow', 'style', 'fashion', 'fashiontrend', 'fallfashiontrend', 'fallfashionupd']","['update', 'fall', 'wardrobe', 'stylempower', 'style', 'fashion', 'fashiontrends', 'fallfashiontrends', 'fallfashionupdate']"
+fashiontrends,"What brands are trending right now? These are the top 5 brands we dry cleaned the most in September 2022!
+#fashiontrends #fallfashion #falltrends ","What brands are trending right now These are the top 5 brands we dry cleaned the most in September 2022
+fashiontrends fallfashion falltrends ","['what', 'brands', 'are', 'trending', 'right', 'now', 'these', 'are', 'the', 'top', '5', 'brands', 'we', 'dry', 'cleaned', 'the', 'most', 'in', 'september', '2022', 'fashiontrends', 'fallfashion', 'falltrends', '']","['brands', 'trending', 'right', 'top', '5', 'brands', 'dry', 'cleaned', 'september', '2022', 'fashiontrends', 'fallfashion', 'falltrends', '']","['brand', 'trend', 'right', 'top', '5', 'brand', 'dri', 'clean', 'septemb', '2022', 'fashiontrend', 'fallfashion', 'falltrend', '']","['brand', 'trending', 'right', 'top', '5', 'brand', 'dry', 'cleaned', 'september', '2022', 'fashiontrends', 'fallfashion', 'falltrends', '']"
+fashiontrends,"We were born to shine, aren't we?
+
+#fashiontrends #ootdfashion #boutique #online #fashioninspo #retailtherapy #outfit #outfitinspo #onlineshopping #fashion #fashiondaily #womensfashion #coachmalaysia #malaysianps #handbagcoachmalaysia #coachoriginal #toryburchmalaysia ","We were born to shine arent we
+
+fashiontrends ootdfashion boutique online fashioninspo retailtherapy outfit outfitinspo onlineshopping fashion fashiondaily womensfashion coachmalaysia malaysianps handbagcoachmalaysia coachoriginal toryburchmalaysia ","['we', 'were', 'born', 'to', 'shine', 'arent', 'we', 'fashiontrends', 'ootdfashion', 'boutique', 'online', 'fashioninspo', 'retailtherapy', 'outfit', 'outfitinspo', 'onlineshopping', 'fashion', 'fashiondaily', 'womensfashion', 'coachmalaysia', 'malaysianps', 'handbagcoachmalaysia', 'coachoriginal', 'toryburchmalaysia', '']","['born', 'shine', 'arent', 'fashiontrends', 'ootdfashion', 'boutique', 'online', 'fashioninspo', 'retailtherapy', 'outfit', 'outfitinspo', 'onlineshopping', 'fashion', 'fashiondaily', 'womensfashion', 'coachmalaysia', 'malaysianps', 'handbagcoachmalaysia', 'coachoriginal', 'toryburchmalaysia', '']","['born', 'shine', 'arent', 'fashiontrend', 'ootdfashion', 'boutiqu', 'onlin', 'fashioninspo', 'retailtherapi', 'outfit', 'outfitinspo', 'onlineshop', 'fashion', 'fashiondaili', 'womensfashion', 'coachmalaysia', 'malaysianp', 'handbagcoachmalaysia', 'coachorigin', 'toryburchmalaysia', '']","['born', 'shine', 'arent', 'fashiontrends', 'ootdfashion', 'boutique', 'online', 'fashioninspo', 'retailtherapy', 'outfit', 'outfitinspo', 'onlineshopping', 'fashion', 'fashiondaily', 'womensfashion', 'coachmalaysia', 'malaysianps', 'handbagcoachmalaysia', 'coachoriginal', 'toryburchmalaysia', '']"
+fashiontrends,"A Free Pair For All
+
+
+
+#Fashion  #Shopping #FashionTrends @Crocs #ShoppingIdeas #Croctober #Footwear @oh_women ","A Free Pair For All
+
+
+
+Fashion  Shopping FashionTrends Crocs ShoppingIdeas Croctober Footwear oh_women ","['a', 'free', 'pair', 'for', 'all', 'fashion', 'shopping', 'fashiontrends', 'crocs', 'shoppingideas', 'croctober', 'footwear', 'oh_women', '']","['free', 'pair', 'fashion', 'shopping', 'fashiontrends', 'crocs', 'shoppingideas', 'croctober', 'footwear', 'oh_women', '']","['free', 'pair', 'fashion', 'shop', 'fashiontrend', 'croc', 'shoppingidea', 'croctob', 'footwear', 'oh_women', '']","['free', 'pair', 'fashion', 'shopping', 'fashiontrends', 'crocs', 'shoppingideas', 'croctober', 'footwear', 'oh_women', '']"
+fashiontrends,"Plus-Sized Beauty in India
+
+
+
+#Fashion #FashionTrends #India @oh_women ","PlusSized Beauty in India
+
+
+
+Fashion FashionTrends India oh_women ","['plussized', 'beauty', 'in', 'india', 'fashion', 'fashiontrends', 'india', 'oh_women', '']","['plussized', 'beauty', 'india', 'fashion', 'fashiontrends', 'india', 'oh_women', '']","['plussiz', 'beauti', 'india', 'fashion', 'fashiontrend', 'india', 'oh_women', '']","['plussized', 'beauty', 'india', 'fashion', 'fashiontrends', 'india', 'oh_women', '']"
+fashiontrends,"Interested in crafting with custom printed fabric? Symplico will PRINT the design you select on your choice of fabric and size. Get any design on any fabric for your fashion, home decor, or any creative purpose. (Link in bio) 
+
+#IndianHandloom #FashionTrends #kutchprints ","Interested in crafting with custom printed fabric Symplico will PRINT the design you select on your choice of fabric and size Get any design on any fabric for your fashion home decor or any creative purpose Link in bio 
+
+IndianHandloom FashionTrends kutchprints ","['interested', 'in', 'crafting', 'with', 'custom', 'printed', 'fabric', 'symplico', 'will', 'print', 'the', 'design', 'you', 'select', 'on', 'your', 'choice', 'of', 'fabric', 'and', 'size', 'get', 'any', 'design', 'on', 'any', 'fabric', 'for', 'your', 'fashion', 'home', 'decor', 'or', 'any', 'creative', 'purpose', 'link', 'in', 'bio', 'indianhandloom', 'fashiontrends', 'kutchprints', '']","['interested', 'crafting', 'custom', 'printed', 'fabric', 'symplico', 'print', 'design', 'select', 'choice', 'fabric', 'size', 'get', 'design', 'fabric', 'fashion', 'home', 'decor', 'creative', 'purpose', 'link', 'bio', 'indianhandloom', 'fashiontrends', 'kutchprints', '']","['interest', 'craft', 'custom', 'print', 'fabric', 'symplico', 'print', 'design', 'select', 'choic', 'fabric', 'size', 'get', 'design', 'fabric', 'fashion', 'home', 'decor', 'creativ', 'purpos', 'link', 'bio', 'indianhandloom', 'fashiontrend', 'kutchprint', '']","['interested', 'crafting', 'custom', 'printed', 'fabric', 'symplico', 'print', 'design', 'select', 'choice', 'fabric', 'size', 'get', 'design', 'fabric', 'fashion', 'home', 'decor', 'creative', 'purpose', 'link', 'bio', 'indianhandloom', 'fashiontrends', 'kutchprints', '']"
+fashiontrends,"Fashion enthusiasts, here is a gateway for you to break all fashion standards and create something out of the box.
+Choose Any design to PRINT on any fabric and quantity of your choice. #IndianHandloom #FashionTrends #kutchprints
+#IndianFabrics
+#CustomizedPrinting #FabricPrinting ","Fashion enthusiasts here is a gateway for you to break all fashion standards and create something out of the box
+Choose Any design to PRINT on any fabric and quantity of your choice IndianHandloom FashionTrends kutchprints
+IndianFabrics
+CustomizedPrinting FabricPrinting ","['fashion', 'enthusiasts', 'here', 'is', 'a', 'gateway', 'for', 'you', 'to', 'break', 'all', 'fashion', 'standards', 'and', 'create', 'something', 'out', 'of', 'the', 'box', 'choose', 'any', 'design', 'to', 'print', 'on', 'any', 'fabric', 'and', 'quantity', 'of', 'your', 'choice', 'indianhandloom', 'fashiontrends', 'kutchprints', 'indianfabrics', 'customizedprinting', 'fabricprinting', '']","['fashion', 'enthusiasts', 'gateway', 'break', 'fashion', 'standards', 'create', 'something', 'box', 'choose', 'design', 'print', 'fabric', 'quantity', 'choice', 'indianhandloom', 'fashiontrends', 'kutchprints', 'indianfabrics', 'customizedprinting', 'fabricprinting', '']","['fashion', 'enthusiast', 'gateway', 'break', 'fashion', 'standard', 'creat', 'someth', 'box', 'choos', 'design', 'print', 'fabric', 'quantiti', 'choic', 'indianhandloom', 'fashiontrend', 'kutchprint', 'indianfabr', 'customizedprint', 'fabricprint', '']","['fashion', 'enthusiast', 'gateway', 'break', 'fashion', 'standard', 'create', 'something', 'box', 'choose', 'design', 'print', 'fabric', 'quantity', 'choice', 'indianhandloom', 'fashiontrends', 'kutchprints', 'indianfabrics', 'customizedprinting', 'fabricprinting', '']"
+fashiontrends,"Dewy Skin + Fresh Haircut, Jasmin Bhasin clicked outside a salon!
+
+
+#jasminbhasinjb #fashion #fashiontrends #bollywood #actresses @jasminbhasin ","Dewy Skin  Fresh Haircut Jasmin Bhasin clicked outside a salon
+
+
+jasminbhasinjb fashion fashiontrends bollywood actresses jasminbhasin ","['dewy', 'skin', 'fresh', 'haircut', 'jasmin', 'bhasin', 'clicked', 'outside', 'a', 'salon', 'jasminbhasinjb', 'fashion', 'fashiontrends', 'bollywood', 'actresses', 'jasminbhasin', '']","['dewy', 'skin', 'fresh', 'haircut', 'jasmin', 'bhasin', 'clicked', 'outside', 'salon', 'jasminbhasinjb', 'fashion', 'fashiontrends', 'bollywood', 'actresses', 'jasminbhasin', '']","['dewi', 'skin', 'fresh', 'haircut', 'jasmin', 'bhasin', 'click', 'outsid', 'salon', 'jasminbhasinjb', 'fashion', 'fashiontrend', 'bollywood', 'actress', 'jasminbhasin', '']","['dewy', 'skin', 'fresh', 'haircut', 'jasmin', 'bhasin', 'clicked', 'outside', 'salon', 'jasminbhasinjb', 'fashion', 'fashiontrends', 'bollywood', 'actress', 'jasminbhasin', '']"
+fashiontrends,"Whatsapp -&gt;  (+917655889434)
+Catalog Name:*Unique Women Women Handbags Set*
+Material: Pu
+Multipack: 4
+
+Dispatch: 2-3 Days
+Easy Returns Available 
+#onlineshop
+#onlineshopping
+#uniquewomen
+#Handbagsset
+#Pu
+#fashionstyle 
+#fashiontrends
+#fashionista ","Whatsapp gt  917655889434
+Catalog NameUnique Women Women Handbags Set
+Material Pu
+Multipack 4
+
+Dispatch 23 Days
+Easy Returns Available 
+onlineshop
+onlineshopping
+uniquewomen
+Handbagsset
+Pu
+fashionstyle 
+fashiontrends
+fashionista ","['whatsapp', 'gt', '917655889434', 'catalog', 'nameunique', 'women', 'women', 'handbags', 'set', 'material', 'pu', 'multipack', '4', 'dispatch', '23', 'days', 'easy', 'returns', 'available', 'onlineshop', 'onlineshopping', 'uniquewomen', 'handbagsset', 'pu', 'fashionstyle', 'fashiontrends', 'fashionista', '']","['whatsapp', 'gt', '917655889434', 'catalog', 'nameunique', 'women', 'women', 'handbags', 'set', 'material', 'pu', 'multipack', '4', 'dispatch', '23', 'days', 'easy', 'returns', 'available', 'onlineshop', 'onlineshopping', 'uniquewomen', 'handbagsset', 'pu', 'fashionstyle', 'fashiontrends', 'fashionista', '']","['whatsapp', 'gt', '917655889434', 'catalog', 'nameuniqu', 'women', 'women', 'handbag', 'set', 'materi', 'pu', 'multipack', '4', 'dispatch', '23', 'day', 'easi', 'return', 'avail', 'onlineshop', 'onlineshop', 'uniquewomen', 'handbagsset', 'pu', 'fashionstyl', 'fashiontrend', 'fashionista', '']","['whatsapp', 'gt', '917655889434', 'catalog', 'nameunique', 'woman', 'woman', 'handbag', 'set', 'material', 'pu', 'multipack', '4', 'dispatch', '23', 'day', 'easy', 'return', 'available', 'onlineshop', 'onlineshopping', 'uniquewomen', 'handbagsset', 'pu', 'fashionstyle', 'fashiontrends', 'fashionista', '']"
+fashiontrends,"Men’s Hoodie Looney Tunes!
+(check store for more items)
+#fashionstyle #fashiontrends #hoodies #myconabu
+
+On sale - buy yours today!  ","Mens Hoodie Looney Tunes
+check store for more items
+fashionstyle fashiontrends hoodies myconabu
+
+On sale  buy yours today  ","['mens', 'hoodie', 'looney', 'tunes', 'check', 'store', 'for', 'more', 'items', 'fashionstyle', 'fashiontrends', 'hoodies', 'myconabu', 'on', 'sale', 'buy', 'yours', 'today', '']","['mens', 'hoodie', 'looney', 'tunes', 'check', 'store', 'items', 'fashionstyle', 'fashiontrends', 'hoodies', 'myconabu', 'sale', 'buy', 'today', '']","['men', 'hoodi', 'looney', 'tune', 'check', 'store', 'item', 'fashionstyl', 'fashiontrend', 'hoodi', 'myconabu', 'sale', 'buy', 'today', '']","['men', 'hoodie', 'looney', 'tune', 'check', 'store', 'item', 'fashionstyle', 'fashiontrends', 'hoodies', 'myconabu', 'sale', 'buy', 'today', '']"
+fashiontrends,"Surbhi Chandna enchanted the crowd in a scorching outfit while looking lovely in a backless net top.
+
+
+#SurbhiChandna #Fashion #fashiontrends #serialactress @SurbhiChandna ","Surbhi Chandna enchanted the crowd in a scorching outfit while looking lovely in a backless net top
+
+
+SurbhiChandna Fashion fashiontrends serialactress SurbhiChandna ","['surbhi', 'chandna', 'enchanted', 'the', 'crowd', 'in', 'a', 'scorching', 'outfit', 'while', 'looking', 'lovely', 'in', 'a', 'backless', 'net', 'top', 'surbhichandna', 'fashion', 'fashiontrends', 'serialactress', 'surbhichandna', '']","['surbhi', 'chandna', 'enchanted', 'crowd', 'scorching', 'outfit', 'looking', 'lovely', 'backless', 'net', 'top', 'surbhichandna', 'fashion', 'fashiontrends', 'serialactress', 'surbhichandna', '']","['surbhi', 'chandna', 'enchant', 'crowd', 'scorch', 'outfit', 'look', 'love', 'backless', 'net', 'top', 'surbhichandna', 'fashion', 'fashiontrend', 'serialactress', 'surbhichandna', '']","['surbhi', 'chandna', 'enchanted', 'crowd', 'scorching', 'outfit', 'looking', 'lovely', 'backless', 'net', 'top', 'surbhichandna', 'fashion', 'fashiontrends', 'serialactress', 'surbhichandna', '']"
+fashiontrends,"Kick off summer right with our new Ladies Viper Floral 😎☀️🔥
+
+#sovietdenim #realpeoplerealdenim #ss22 #retrovibesandsummerhighs #besoviet #fashion #motivation #insta #fashionlover #fashiontrends #fashiongram #fashionable #fashionpost #confidence #happy ","Kick off summer right with our new Ladies Viper Floral 
+
+sovietdenim realpeoplerealdenim ss22 retrovibesandsummerhighs besoviet fashion motivation insta fashionlover fashiontrends fashiongram fashionable fashionpost confidence happy ","['kick', 'off', 'summer', 'right', 'with', 'our', 'new', 'ladies', 'viper', 'floral', 'sovietdenim', 'realpeoplerealdenim', 'ss22', 'retrovibesandsummerhighs', 'besoviet', 'fashion', 'motivation', 'insta', 'fashionlover', 'fashiontrends', 'fashiongram', 'fashionable', 'fashionpost', 'confidence', 'happy', '']","['kick', 'summer', 'right', 'new', 'ladies', 'viper', 'floral', 'sovietdenim', 'realpeoplerealdenim', 'ss22', 'retrovibesandsummerhighs', 'besoviet', 'fashion', 'motivation', 'insta', 'fashionlover', 'fashiontrends', 'fashiongram', 'fashionable', 'fashionpost', 'confidence', 'happy', '']","['kick', 'summer', 'right', 'new', 'ladi', 'viper', 'floral', 'sovietdenim', 'realpeoplerealdenim', 'ss22', 'retrovibesandsummerhigh', 'besoviet', 'fashion', 'motiv', 'insta', 'fashionlov', 'fashiontrend', 'fashiongram', 'fashion', 'fashionpost', 'confid', 'happi', '']","['kick', 'summer', 'right', 'new', 'lady', 'viper', 'floral', 'sovietdenim', 'realpeoplerealdenim', 'ss22', 'retrovibesandsummerhighs', 'besoviet', 'fashion', 'motivation', 'insta', 'fashionlover', 'fashiontrends', 'fashiongram', 'fashionable', 'fashionpost', 'confidence', 'happy', '']"
+fashiontrends,"Create a fashion statement - Feel trendy. Feel authentic. 
+
+DM/ Call 📱 081 760 9164 
+
+#fashion #pretoria #johannesburg #style #styleblogger #fashionable #shopping #fashionstyle #dress #outfit #beauty #stylish #lifestyle #SouthAfrica #fashiontrends #LoveFNB #heatwave #Africa ","Create a fashion statement  Feel trendy Feel authentic 
+
+DM Call  081 760 9164 
+
+fashion pretoria johannesburg style styleblogger fashionable shopping fashionstyle dress outfit beauty stylish lifestyle SouthAfrica fashiontrends LoveFNB heatwave Africa ","['create', 'a', 'fashion', 'statement', 'feel', 'trendy', 'feel', 'authentic', 'dm', 'call', '081', '760', '9164', 'fashion', 'pretoria', 'johannesburg', 'style', 'styleblogger', 'fashionable', 'shopping', 'fashionstyle', 'dress', 'outfit', 'beauty', 'stylish', 'lifestyle', 'southafrica', 'fashiontrends', 'lovefnb', 'heatwave', 'africa', '']","['create', 'fashion', 'statement', 'feel', 'trendy', 'feel', 'authentic', 'dm', 'call', '081', '760', '9164', 'fashion', 'pretoria', 'johannesburg', 'style', 'styleblogger', 'fashionable', 'shopping', 'fashionstyle', 'dress', 'outfit', 'beauty', 'stylish', 'lifestyle', 'southafrica', 'fashiontrends', 'lovefnb', 'heatwave', 'africa', '']","['creat', 'fashion', 'statement', 'feel', 'trendi', 'feel', 'authent', 'dm', 'call', '081', '760', '9164', 'fashion', 'pretoria', 'johannesburg', 'style', 'styleblogg', 'fashion', 'shop', 'fashionstyl', 'dress', 'outfit', 'beauti', 'stylish', 'lifestyl', 'southafrica', 'fashiontrend', 'lovefnb', 'heatwav', 'africa', '']","['create', 'fashion', 'statement', 'feel', 'trendy', 'feel', 'authentic', 'dm', 'call', '081', '760', '9164', 'fashion', 'pretoria', 'johannesburg', 'style', 'styleblogger', 'fashionable', 'shopping', 'fashionstyle', 'dress', 'outfit', 'beauty', 'stylish', 'lifestyle', 'southafrica', 'fashiontrends', 'lovefnb', 'heatwave', 'africa', '']"
+fashiontrends,"Rhea Chakraborty is currently the most positive, most confident and extremely dynamic on its own!
+
+#RheaChakraborty #fashion #fashiontrends #bollywood #Bollywoodactress 
+
+","Rhea Chakraborty is currently the most positive most confident and extremely dynamic on its own
+
+RheaChakraborty fashion fashiontrends bollywood Bollywoodactress 
+
+","['rhea', 'chakraborty', 'is', 'currently', 'the', 'most', 'positive', 'most', 'confident', 'and', 'extremely', 'dynamic', 'on', 'its', 'own', 'rheachakraborty', 'fashion', 'fashiontrends', 'bollywood', 'bollywoodactress', '']","['rhea', 'chakraborty', 'currently', 'positive', 'confident', 'extremely', 'dynamic', 'rheachakraborty', 'fashion', 'fashiontrends', 'bollywood', 'bollywoodactress', '']","['rhea', 'chakraborti', 'current', 'posit', 'confid', 'extrem', 'dynam', 'rheachakraborti', 'fashion', 'fashiontrend', 'bollywood', 'bollywoodactress', '']","['rhea', 'chakraborty', 'currently', 'positive', 'confident', 'extremely', 'dynamic', 'rheachakraborty', 'fashion', 'fashiontrends', 'bollywood', 'bollywoodactress', '']"
+fashiontrends,"Create a fashion statement - Feel trendy. Feel authentic. 
+
+DM/ Call 📱 081 760 9164 
+
+#fashion #pretoria #johannesburg #style #styleblogger #fashionable #shopping #fashionstyle #dress #outfit #beauty #stylish #lifestyle #SouthAfrica #fashiontrends #LoveFNB #heatwave ","Create a fashion statement  Feel trendy Feel authentic 
+
+DM Call  081 760 9164 
+
+fashion pretoria johannesburg style styleblogger fashionable shopping fashionstyle dress outfit beauty stylish lifestyle SouthAfrica fashiontrends LoveFNB heatwave ","['create', 'a', 'fashion', 'statement', 'feel', 'trendy', 'feel', 'authentic', 'dm', 'call', '081', '760', '9164', 'fashion', 'pretoria', 'johannesburg', 'style', 'styleblogger', 'fashionable', 'shopping', 'fashionstyle', 'dress', 'outfit', 'beauty', 'stylish', 'lifestyle', 'southafrica', 'fashiontrends', 'lovefnb', 'heatwave', '']","['create', 'fashion', 'statement', 'feel', 'trendy', 'feel', 'authentic', 'dm', 'call', '081', '760', '9164', 'fashion', 'pretoria', 'johannesburg', 'style', 'styleblogger', 'fashionable', 'shopping', 'fashionstyle', 'dress', 'outfit', 'beauty', 'stylish', 'lifestyle', 'southafrica', 'fashiontrends', 'lovefnb', 'heatwave', '']","['creat', 'fashion', 'statement', 'feel', 'trendi', 'feel', 'authent', 'dm', 'call', '081', '760', '9164', 'fashion', 'pretoria', 'johannesburg', 'style', 'styleblogg', 'fashion', 'shop', 'fashionstyl', 'dress', 'outfit', 'beauti', 'stylish', 'lifestyl', 'southafrica', 'fashiontrend', 'lovefnb', 'heatwav', '']","['create', 'fashion', 'statement', 'feel', 'trendy', 'feel', 'authentic', 'dm', 'call', '081', '760', '9164', 'fashion', 'pretoria', 'johannesburg', 'style', 'styleblogger', 'fashionable', 'shopping', 'fashionstyle', 'dress', 'outfit', 'beauty', 'stylish', 'lifestyle', 'southafrica', 'fashiontrends', 'lovefnb', 'heatwave', '']"
+fashiontrends,"Holla At the Squad for the DISCOUNTS 
+what you need, holla at me
+
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog #ncaafootball #highschoolfootball #nfl #gameday","Holla At the Squad for the DISCOUNTS 
+what you need holla at me
+
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog ncaafootball highschoolfootball nfl gameday","['holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'holla', 'at', 'me', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'ncaafootball', 'highschoolfootball', 'nfl', 'gameday']","['holla', 'squad', 'discounts', 'need', 'holla', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'ncaafootball', 'highschoolfootball', 'nfl', 'gameday']","['holla', 'squad', 'discount', 'need', 'holla', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'ncaafootbal', 'highschoolfootbal', 'nfl', 'gameday']","['holla', 'squad', 'discount', 'need', 'holla', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'ncaafootball', 'highschoolfootball', 'nfl', 'gameday']"
+fashiontrends,"
+Catch Flight 1019 #Clothing #fashiondesigner #FashionTrends #fashionblogger #glamour #glamourmodel #elegant #elegance ","
+Catch Flight 1019 Clothing fashiondesigner FashionTrends fashionblogger glamour glamourmodel elegant elegance ","['', 'catch', 'flight', '1019', 'clothing', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['', 'catch', 'flight', '1019', 'clothing', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['', 'catch', 'flight', '1019', 'cloth', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'glamour', 'glamourmodel', 'eleg', 'eleg', '']","['', 'catch', 'flight', '1019', 'clothing', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']"
+fashiontrends,"Holla At the Squad for the DISCOUNTS 
+what you need, holla at me
+
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog #ncaafootball #highschoolfootball #nfl #gameday","Holla At the Squad for the DISCOUNTS 
+what you need holla at me
+
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog ncaafootball highschoolfootball nfl gameday","['holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'holla', 'at', 'me', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'ncaafootball', 'highschoolfootball', 'nfl', 'gameday']","['holla', 'squad', 'discounts', 'need', 'holla', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'ncaafootball', 'highschoolfootball', 'nfl', 'gameday']","['holla', 'squad', 'discount', 'need', 'holla', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'ncaafootbal', 'highschoolfootbal', 'nfl', 'gameday']","['holla', 'squad', 'discount', 'need', 'holla', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'ncaafootball', 'highschoolfootball', 'nfl', 'gameday']"
+fashiontrends,"
+Catch Flight 1019 #Clothing #fashiondesigner #FashionTrends #fashionblogger #glamour #glamourmodel #elegant #elegance ","
+Catch Flight 1019 Clothing fashiondesigner FashionTrends fashionblogger glamour glamourmodel elegant elegance ","['', 'catch', 'flight', '1019', 'clothing', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['', 'catch', 'flight', '1019', 'clothing', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['', 'catch', 'flight', '1019', 'cloth', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'glamour', 'glamourmodel', 'eleg', 'eleg', '']","['', 'catch', 'flight', '1019', 'clothing', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']"
+fashiontrends,"Holla At the Squad for the DISCOUNTS 
+what you need, holla at me
+
+#Clothing #clothingstore #clothingbrand #fashionstyle #fashion #fashiondesigner #FashionTrends #fashionblogger #fashionaddict #fashionblog #ncaafootball #highschoolfootball #nfl #gameday","Holla At the Squad for the DISCOUNTS 
+what you need holla at me
+
+Clothing clothingstore clothingbrand fashionstyle fashion fashiondesigner FashionTrends fashionblogger fashionaddict fashionblog ncaafootball highschoolfootball nfl gameday","['holla', 'at', 'the', 'squad', 'for', 'the', 'discounts', 'what', 'you', 'need', 'holla', 'at', 'me', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'ncaafootball', 'highschoolfootball', 'nfl', 'gameday']","['holla', 'squad', 'discounts', 'need', 'holla', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'ncaafootball', 'highschoolfootball', 'nfl', 'gameday']","['holla', 'squad', 'discount', 'need', 'holla', 'cloth', 'clothingstor', 'clothingbrand', 'fashionstyl', 'fashion', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'fashionaddict', 'fashionblog', 'ncaafootbal', 'highschoolfootbal', 'nfl', 'gameday']","['holla', 'squad', 'discount', 'need', 'holla', 'clothing', 'clothingstore', 'clothingbrand', 'fashionstyle', 'fashion', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'fashionaddict', 'fashionblog', 'ncaafootball', 'highschoolfootball', 'nfl', 'gameday']"
+fashiontrends,"
+Catch Flight 1019 #Clothing #fashiondesigner #FashionTrends #fashionblogger #glamour #glamourmodel #elegant #elegance ","
+Catch Flight 1019 Clothing fashiondesigner FashionTrends fashionblogger glamour glamourmodel elegant elegance ","['', 'catch', 'flight', '1019', 'clothing', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['', 'catch', 'flight', '1019', 'clothing', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']","['', 'catch', 'flight', '1019', 'cloth', 'fashiondesign', 'fashiontrend', 'fashionblogg', 'glamour', 'glamourmodel', 'eleg', 'eleg', '']","['', 'catch', 'flight', '1019', 'clothing', 'fashiondesigner', 'fashiontrends', 'fashionblogger', 'glamour', 'glamourmodel', 'elegant', 'elegance', '']"
+fashiontrends,"#WEEPINLEE #Womens Long Sleeve Round Neck #Party #Dress
+
+#fashionstylist #woman #womanfashion #clothe #clothes
+#fashion #fashionblogger #womenstyle #fashiontrends
+#amazonseller #amazondeals #AmazonBestSeller #amazonprime #accessories #accessory #USA","WEEPINLEE Womens Long Sleeve Round Neck Party Dress
+
+fashionstylist woman womanfashion clothe clothes
+fashion fashionblogger womenstyle fashiontrends
+amazonseller amazondeals AmazonBestSeller amazonprime accessories accessory USA","['weepinlee', 'womens', 'long', 'sleeve', 'round', 'neck', 'party', 'dress', 'fashionstylist', 'woman', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessories', 'accessory', 'usa']","['weepinlee', 'womens', 'long', 'sleeve', 'round', 'neck', 'party', 'dress', 'fashionstylist', 'woman', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessories', 'accessory', 'usa']","['weepinle', 'women', 'long', 'sleev', 'round', 'neck', 'parti', 'dress', 'fashionstylist', 'woman', 'womanfashion', 'cloth', 'cloth', 'fashion', 'fashionblogg', 'womenstyl', 'fashiontrend', 'amazonsel', 'amazond', 'amazonbestsel', 'amazonprim', 'accessori', 'accessori', 'usa']","['weepinlee', 'woman', 'long', 'sleeve', 'round', 'neck', 'party', 'dress', 'fashionstylist', 'woman', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessory', 'accessory', 'usa']"
+fashiontrends,"Get15% off for new user on #dresslily and check awesome #fashion
+
+#clothes #clothesforsale #clothesline #clothesshop #fashionstylist #women
+#fashion #fashionblogger #fashioninspiration #womenstyle #fashiondaily #fashiontrends #womensfashionstyle #usa #uk","Get15 off for new user on dresslily and check awesome fashion
+
+clothes clothesforsale clothesline clothesshop fashionstylist women
+fashion fashionblogger fashioninspiration womenstyle fashiondaily fashiontrends womensfashionstyle usa uk","['get15', 'off', 'for', 'new', 'user', 'on', 'dresslily', 'and', 'check', 'awesome', 'fashion', 'clothes', 'clothesforsale', 'clothesline', 'clothesshop', 'fashionstylist', 'women', 'fashion', 'fashionblogger', 'fashioninspiration', 'womenstyle', 'fashiondaily', 'fashiontrends', 'womensfashionstyle', 'usa', 'uk']","['get15', 'new', 'user', 'dresslily', 'check', 'awesome', 'fashion', 'clothes', 'clothesforsale', 'clothesline', 'clothesshop', 'fashionstylist', 'women', 'fashion', 'fashionblogger', 'fashioninspiration', 'womenstyle', 'fashiondaily', 'fashiontrends', 'womensfashionstyle', 'usa', 'uk']","['get15', 'new', 'user', 'dresslili', 'check', 'awesom', 'fashion', 'cloth', 'clothesforsal', 'clotheslin', 'clothesshop', 'fashionstylist', 'women', 'fashion', 'fashionblogg', 'fashioninspir', 'womenstyl', 'fashiondaili', 'fashiontrend', 'womensfashionstyl', 'usa', 'uk']","['get15', 'new', 'user', 'dresslily', 'check', 'awesome', 'fashion', 'clothes', 'clothesforsale', 'clothesline', 'clothesshop', 'fashionstylist', 'woman', 'fashion', 'fashionblogger', 'fashioninspiration', 'womenstyle', 'fashiondaily', 'fashiontrends', 'womensfashionstyle', 'usa', 'uk']"
+fashiontrends,"#BTFBM #Women #Casual Long Sleeve Ruched Wrap #Dress
+
+#fashionstylist #woman #Jewellry #womanfashion #clothe #clothes
+#fashion #fashionblogger #womenstyle #fashiontrends
+#amazonseller #amazondeals #AmazonBestSeller #amazonprime #accessories #accessory #USA","BTFBM Women Casual Long Sleeve Ruched Wrap Dress
+
+fashionstylist woman Jewellry womanfashion clothe clothes
+fashion fashionblogger womenstyle fashiontrends
+amazonseller amazondeals AmazonBestSeller amazonprime accessories accessory USA","['btfbm', 'women', 'casual', 'long', 'sleeve', 'ruched', 'wrap', 'dress', 'fashionstylist', 'woman', 'jewellry', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessories', 'accessory', 'usa']","['btfbm', 'women', 'casual', 'long', 'sleeve', 'ruched', 'wrap', 'dress', 'fashionstylist', 'woman', 'jewellry', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessories', 'accessory', 'usa']","['btfbm', 'women', 'casual', 'long', 'sleev', 'ruch', 'wrap', 'dress', 'fashionstylist', 'woman', 'jewellri', 'womanfashion', 'cloth', 'cloth', 'fashion', 'fashionblogg', 'womenstyl', 'fashiontrend', 'amazonsel', 'amazond', 'amazonbestsel', 'amazonprim', 'accessori', 'accessori', 'usa']","['btfbm', 'woman', 'casual', 'long', 'sleeve', 'ruched', 'wrap', 'dress', 'fashionstylist', 'woman', 'jewellry', 'womanfashion', 'clothe', 'clothes', 'fashion', 'fashionblogger', 'womenstyle', 'fashiontrends', 'amazonseller', 'amazondeals', 'amazonbestseller', 'amazonprime', 'accessory', 'accessory', 'usa']"
+fashiontrends,"Stay ahead of the trends! These bags are predicted to be trending in spring 2023.
+
+  
+
+#FashionTrends #Handbags","Stay ahead of the trends These bags are predicted to be trending in spring 2023
+
+  
+
+FashionTrends Handbags","['stay', 'ahead', 'of', 'the', 'trends', 'these', 'bags', 'are', 'predicted', 'to', 'be', 'trending', 'in', 'spring', '2023', 'fashiontrends', 'handbags']","['stay', 'ahead', 'trends', 'bags', 'predicted', 'trending', 'spring', '2023', 'fashiontrends', 'handbags']","['stay', 'ahead', 'trend', 'bag', 'predict', 'trend', 'spring', '2023', 'fashiontrend', 'handbag']","['stay', 'ahead', 'trend', 'bag', 'predicted', 'trending', 'spring', '2023', 'fashiontrends', 'handbag']"
+fashiontrends,"Like if you are Excited!
+
+Welcome to  
+
+#fashionlook #fashiontrends #Outlet #Milanfashion ","Like if you are Excited
+
+Welcome to  
+
+fashionlook fashiontrends Outlet Milanfashion ","['like', 'if', 'you', 'are', 'excited', 'welcome', 'to', 'fashionlook', 'fashiontrends', 'outlet', 'milanfashion', '']","['like', 'excited', 'welcome', 'fashionlook', 'fashiontrends', 'outlet', 'milanfashion', '']","['like', 'excit', 'welcom', 'fashionlook', 'fashiontrend', 'outlet', 'milanfashion', '']","['like', 'excited', 'welcome', 'fashionlook', 'fashiontrends', 'outlet', 'milanfashion', '']"
+fashiontrends,"Claim your fame 😉✨⁠
+⁠
+@ludovicabizzaglia ♾️ @pacorabanne⁠
+⁠
+___⁠
+#creatormarketing #influencermarketing #socialmedia #Fame #Pacorabanne #fragrance #fashion #fashiontrends #Paris #luxuryfashion ","Claim your fame 
+
+ludovicabizzaglia  pacorabanne
+
+___
+creatormarketing influencermarketing socialmedia Fame Pacorabanne fragrance fashion fashiontrends Paris luxuryfashion ","['claim', 'your', 'fame', 'ludovicabizzaglia', 'pacorabanne', '___', 'creatormarketing', 'influencermarketing', 'socialmedia', 'fame', 'pacorabanne', 'fragrance', 'fashion', 'fashiontrends', 'paris', 'luxuryfashion', '']","['claim', 'fame', 'ludovicabizzaglia', 'pacorabanne', '___', 'creatormarketing', 'influencermarketing', 'socialmedia', 'fame', 'pacorabanne', 'fragrance', 'fashion', 'fashiontrends', 'paris', 'luxuryfashion', '']","['claim', 'fame', 'ludovicabizzaglia', 'pacorabann', '___', 'creatormarket', 'influencermarket', 'socialmedia', 'fame', 'pacorabann', 'fragranc', 'fashion', 'fashiontrend', 'pari', 'luxuryfashion', '']","['claim', 'fame', 'ludovicabizzaglia', 'pacorabanne', '___', 'creatormarketing', 'influencermarketing', 'socialmedia', 'fame', 'pacorabanne', 'fragrance', 'fashion', 'fashiontrends', 'paris', 'luxuryfashion', '']"
+fashiontrends,"Love our New Mens Luxury Micro Pave Iced Out Cubic Zirconia Cross Pendant Necklace Fashion Charm Jewelry With Tennnis Chain?  US $33.38
+#ootd #womenstyle #fashiontrends #newcollection #tshirtstore #streetstyle ","Love our New Mens Luxury Micro Pave Iced Out Cubic Zirconia Cross Pendant Necklace Fashion Charm Jewelry With Tennnis Chain  US 3338
+ootd womenstyle fashiontrends newcollection tshirtstore streetstyle ","['love', 'our', 'new', 'mens', 'luxury', 'micro', 'pave', 'iced', 'out', 'cubic', 'zirconia', 'cross', 'pendant', 'necklace', 'fashion', 'charm', 'jewelry', 'with', 'tennnis', 'chain', 'us', '3338', 'ootd', 'womenstyle', 'fashiontrends', 'newcollection', 'tshirtstore', 'streetstyle', '']","['love', 'new', 'mens', 'luxury', 'micro', 'pave', 'iced', 'cubic', 'zirconia', 'cross', 'pendant', 'necklace', 'fashion', 'charm', 'jewelry', 'tennnis', 'chain', 'us', '3338', 'ootd', 'womenstyle', 'fashiontrends', 'newcollection', 'tshirtstore', 'streetstyle', '']","['love', 'new', 'men', 'luxuri', 'micro', 'pave', 'ice', 'cubic', 'zirconia', 'cross', 'pendant', 'necklac', 'fashion', 'charm', 'jewelri', 'tennni', 'chain', 'us', '3338', 'ootd', 'womenstyl', 'fashiontrend', 'newcollect', 'tshirtstor', 'streetstyl', '']","['love', 'new', 'men', 'luxury', 'micro', 'pave', 'iced', 'cubic', 'zirconia', 'cross', 'pendant', 'necklace', 'fashion', 'charm', 'jewelry', 'tennnis', 'chain', 'u', '3338', 'ootd', 'womenstyle', 'fashiontrends', 'newcollection', 'tshirtstore', 'streetstyle', '']"
+fashiontrends,"Woman's Wallet Book. #Matriarch #women #woman #art #fashiondesigner #fashiontrends #accessories #handmade #Wallets #womenswallets #wallettime #pocketbook
+","Womans Wallet Book Matriarch women woman art fashiondesigner fashiontrends accessories handmade Wallets womenswallets wallettime pocketbook
+","['womans', 'wallet', 'book', 'matriarch', 'women', 'woman', 'art', 'fashiondesigner', 'fashiontrends', 'accessories', 'handmade', 'wallets', 'womenswallets', 'wallettime', 'pocketbook', '']","['womans', 'wallet', 'book', 'matriarch', 'women', 'woman', 'art', 'fashiondesigner', 'fashiontrends', 'accessories', 'handmade', 'wallets', 'womenswallets', 'wallettime', 'pocketbook', '']","['woman', 'wallet', 'book', 'matriarch', 'women', 'woman', 'art', 'fashiondesign', 'fashiontrend', 'accessori', 'handmad', 'wallet', 'womenswallet', 'wallettim', 'pocketbook', '']","['woman', 'wallet', 'book', 'matriarch', 'woman', 'woman', 'art', 'fashiondesigner', 'fashiontrends', 'accessory', 'handmade', 'wallet', 'womenswallets', 'wallettime', 'pocketbook', '']"
+fashiontrends,"Modifed Love EP | Track Number Four | ""Model Candy""⁠
+⁠
+OUT NOW | Link in bio*⁠
+⁠
+#fashion #style #modeling #photography #fashionblogger #art #inspiration #vogue #weekendvibe #lifestyle #fashiontrends #styleblogge #spotify #musicproducer #deephouse #techhouse #theeveningafter ","Modifed Love EP  Track Number Four  Model Candy
+
+OUT NOW  Link in bio
+
+fashion style modeling photography fashionblogger art inspiration vogue weekendvibe lifestyle fashiontrends styleblogge spotify musicproducer deephouse techhouse theeveningafter ","['modifed', 'love', 'ep', 'track', 'number', 'four', 'model', 'candy', 'out', 'now', 'link', 'in', 'bio', 'fashion', 'style', 'modeling', 'photography', 'fashionblogger', 'art', 'inspiration', 'vogue', 'weekendvibe', 'lifestyle', 'fashiontrends', 'styleblogge', 'spotify', 'musicproducer', 'deephouse', 'techhouse', 'theeveningafter', '']","['modifed', 'love', 'ep', 'track', 'number', 'four', 'model', 'candy', 'link', 'bio', 'fashion', 'style', 'modeling', 'photography', 'fashionblogger', 'art', 'inspiration', 'vogue', 'weekendvibe', 'lifestyle', 'fashiontrends', 'styleblogge', 'spotify', 'musicproducer', 'deephouse', 'techhouse', 'theeveningafter', '']","['modif', 'love', 'ep', 'track', 'number', 'four', 'model', 'candi', 'link', 'bio', 'fashion', 'style', 'model', 'photographi', 'fashionblogg', 'art', 'inspir', 'vogu', 'weekendvib', 'lifestyl', 'fashiontrend', 'styleblogg', 'spotifi', 'musicproduc', 'deephous', 'techhous', 'theeveningaft', '']","['modifed', 'love', 'ep', 'track', 'number', 'four', 'model', 'candy', 'link', 'bio', 'fashion', 'style', 'modeling', 'photography', 'fashionblogger', 'art', 'inspiration', 'vogue', 'weekendvibe', 'lifestyle', 'fashiontrends', 'styleblogge', 'spotify', 'musicproducer', 'deephouse', 'techhouse', 'theeveningafter', '']"
+fashiontrends,Dolce and Gabbana Trendy Fashion Designs  #fashion #fashionstyles #fashiontrends ,Dolce and Gabbana Trendy Fashion Designs  fashion fashionstyles fashiontrends ,"['dolce', 'and', 'gabbana', 'trendy', 'fashion', 'designs', 'fashion', 'fashionstyles', 'fashiontrends', '']","['dolce', 'gabbana', 'trendy', 'fashion', 'designs', 'fashion', 'fashionstyles', 'fashiontrends', '']","['dolc', 'gabbana', 'trendi', 'fashion', 'design', 'fashion', 'fashionstyl', 'fashiontrend', '']","['dolce', 'gabbana', 'trendy', 'fashion', 'design', 'fashion', 'fashionstyles', 'fashiontrends', '']"

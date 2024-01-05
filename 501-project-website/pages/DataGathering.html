@@ -1,0 +1,152 @@
+<HTML>
+	<head>
+		<link rel="stylesheet" href="../styles.css">
+	  </head>
+
+	<body>
+	    <a href="https://analytics.georgetown.edu/"><img src="https://ngpardeshi.georgetown.domains/ANLY 501 IMAGES/DSA.jpg" style="width:600px;height:200px;" /> 
+			<img src="https://ngpardeshi.georgetown.domains/ANLY 501 IMAGES/GU_Background.png" style="width:700px;height:200px;" align="right">
+		 </a> 
+	<ul class ="header">
+		<!-- link back to homepage -->
+		<li><a href="../index.html">About me</a></li>
+		
+		<!-- tab without dropdown  -->
+		<li><a href="../pages/introduction.html">Introduction</a></li>
+		<li><a href="../pages/DataGathering.html">Data Gathering</a></li>
+		<li><a href="https://github.com/anly501/anly-501-project-aanchal-dusija">Data</a></li>
+		<li><a href="https://github.com/anly501/anly-501-project-aanchal-dusija">Code</a></li>
+		<li><a href="../pages/DataCleaning.html">Data Cleaning</a></li>
+		<li><a href="../pages/Data Viz.html">Exploring Data</a></li>
+		<li class="dropdown">
+			<a href="javascript:void(0)" class="dropbtn">Naive Bayes</a>
+		
+			<div class="dropdown-content">
+			<a href="../pages/NBinR.html" >Naive Bayes in R</a>
+			<a href="../pages/NBinPy_quarto.html" >Naive Bayes in Python</a>
+			</div>
+		</li>
+		<li><a href="../pages/Clustering.html">Clustering</a></li>
+		<li><a href="../pages/ARM.html">ARM and Networking</a></li>
+		<li><a href="../pages/DT.html">Decision Trees</a></li>
+		<!-- <li><a href="../pages/xyz.html">Naive Bayes</a></li> -->
+		<li><a href="../pages/SVM.html">SVM</a></li>
+		<li><a href="../pages/Conclusion.html">Conclusions</a></li>
+		
+	</ul>
+
+	<div class="w3-container w3-border city" id="Data Gathering" >
+	<br>
+	<br>
+	
+	<h1><center><b>Data Gathering</b></center></h1>
+	<p>
+
+		<h2><b>What is Data Gathering?</b></h2>
+		<p>Data collection is the systematic process of gathering and measuring information on variables of interest in order to answer stated research questions, test hypotheses, and evaluate outcomes. Data collection is a component of research that is shared by all fields of study, including physical and social sciences, humanities, business, and so on. While methods differ depending on the discipline, the emphasis on ensuring accurate and honest collection remains constant.</p>
+		<p>Knowledge is power, information is information, and data is information in digitized form, at least as defined in information technology. As a result, data is power. However, before you can turn that data into a successful strategy for your organization or business, you must first collect it. That is the first step.</p>
+		<p>Our society is heavily reliant on data, emphasizing the significance of data collection. To make informed business decisions, ensure quality assurance, and maintain research integrity, accurate data collection is required. During data collection, researchers must identify data types, data sources, and data collection methods. We will soon discover that there are numerous data collection methods. There is heavy reliance on data collection in research, commercial, and government fields.</p>
+	
+		<img src="https://sfmagazine.com/wp-content/uploads/06_2019_tech_practices.jpg" width="500" height="450" class="center"> <br> <br>
+    
+		<h2><b>About the Data</b></h2>
+		<b>Text Data:</b>
+		<p></p>Twitter's Developer Platform enables you to harness the power of Twitter's open, global, real-time, and historical platform within your applications. The platform provides tools, resources, data, and API products for you to integrate, and expand Twitter's impact through research, solutions, and more. The Twitter API enables programmatic access to Twitter in unique and advanced ways. Tap into core elements of Twitter like Tweets, Direct Messages, Spaces, Lists, users, and more. Twitter API gives you real-time access to the global conversation, right at your fingertips. Using the Twitter API, I collected Tweets relating to fashiontrends and ecommerce in R and Python. The data consists of the text in the tweet, tweet favorite count, tweet date, id number, Twitter account, and retweet count. I chose these hashtags since they were my project is based on e-commerce data on the latest fashion trends in the world.<br> <br>
+		
+		<img src="https://user-images.githubusercontent.com/13072231/199728866-202b9742-d58e-4667-b046-e8096efd2339.png" width="10" height="350" class="center"> <br> <br>
+    
+		<b>Record Data:</b>
+		<p></p> The data was web scraped from APIFY to collect data from the official websites of Macy's, Amazon, and Walmart for Data Analysis. <br> <br>
+
+		<li> Macy's Data: Macy's Scraper will enable you to get data from Macy's website than the official Macy's API. The API uses Macy's web scraper to crawl product information including price and sale price, color, and images. And then extracts all data in a dataset in structured formats like HTML, JSON, CSV, Excel, XML, or RSS. Macy's website has an average of 100 million visits per month and is a great source of data for the fashion industry. <br> <br> </li>
+		<li> Amazon's Data:  Apify Store is packed with dozens of readymade tools for scraping and automation. One of the most popular scraping tools is Amazon Product Scraper, which allows you to extract data from Amazon automatically. This tool effectively creates an Amazon scraper API that enables you to get the data you need. Amazon Product Scraper is a web scraping tool that enables you to extract product data from Amazon by using Amazon's subcategory URLs or product URLs. The Amazon scraper collects data based on URL and country from the Amazon website and extracts product information without using the Amazon API, including reviews, prices, descriptions, and Amazon Standard Identification Numbers (ASINs). The data can be downloaded in various structured formats. <br> <br> </li>
+		<li> Walmart Apparel:  Apify can scrape millions of product data from Walmart. The web scrapper crawls and extracts descriptions, images, brand details, prices, variations and all other product details. You can specify search terms, filters, categories, list pages and much more. The Walmart data scraper supports scraping product details like images, seller information, photos, brands, variants, ID of the product and many more. <br> <br> </li>
+		<div class="row">
+			<div class="column">
+				  <img src="https://www.macys.com/img/nav/co_macysLogo3.gif" alt="Snow" style="width:100%" class = "center">
+		</div>
+			<div class="column">
+				  <img src="https://mms.businesswire.com/media/20180718005495/en/3799/23/logo_white_.jpg" alt="Forest" style="width:100%">
+		</div>
+			<div class="column">
+			  <img src="https://corporate.walmart.com/_download?id=0000016d-f8b2-d758-a1ed-f8b290f10000" alt="Mountains" style="width:100%">
+			</div>
+	  </div>
+	<style>
+	
+	th, td {
+	  border: 1px solid black;
+	}
+	.center {
+	  margin-left: auto;
+	  margin-right: auto;
+	}
+	</style>
+	
+	<table class = "center" style="width:65%">
+		<tbody>
+			<tr>
+				<th>Snippet of Dataset</th>
+				<th>Description</th>
+			</tr>
+			<tr>
+				<td><img alt="Twitter_data_1" height="250px" src="Twitter_data.jpg" width="450px" />
+				<center><a href="Twitter_data.jpg" target="new">View </a></center>
+				<a href="Twitter_data.jpg" target="new"> </a>
+	
+				<center><a href="test_file.csv">Download csv file</a></center>
+				</td>
+				<td><h3> <center><b>R API</b></center></h3>
+				<br>
+				  <center> The Twitter API is used to extract tweets on the hashtag fashion. The motive behind this is to understand the opinion of people regarding fashion trends.</center>
+				   <br>
+				   <center>*The photo attached is the partial snippet of the dataframe. Click on View button to look at all the columns.</center>
+				   <br>
+				<center><a href="twitterfashion.R">R code </a></center>
+				</td>
+			</tr>
+			<tr>
+				<td><img alt="Python_API" height="250px" src="Python_API.png" width="450px" />
+				<center><a href="Python_API.png" target="new">View </a></center>
+				<a href="Python_API.png" target="new"> </a>
+	
+				<center><a href="tweets.csv">Download csv file </a></center>
+				</td> 
+				<td><h3> <center><b>Python API</b></center></h3>
+				<center> The Twitter API tweepy is used to extract tweets on the hashtag fashion. The motive behind this is to understand the opinion of people regarding fashion trends. Since the json file is messy, I have converted it into csv and uploaded it. I can send the json file if needed. </center>
+				<br>
+				<center><a href="API_gathering.py">Python code </a></center>
+				</td>
+			</tr>
+			<tr>
+				<td><img alt="Raw_data_1" height="250px" src="shoes.png" width="450px" />
+				<center><a href="shoes.png" target="new">View </a></center>
+				<a href="shoes.png" target="new"> </a>
+	
+				</td>
+				<td><h3><center><b>Raw Data</b></center></h3> 
+				<p>Macy's Women's Apparel: <a href="Macy_womenclothing.csv">Download csv file </a></p>
+				<p>Macy's Men's Apparel: <a href="Macy_menclothing.csv">Download csv file </a></p>
+				<p>Amazon's Women's Dresses: <a href="amazon_women_dresses.csv">Download csv file </a></p>
+				<p>Amazon's Men's Shirts: <a href="amazon_men_shirts.csv">Download csv file </a></p>
+				<p>Amazon's Women's Coats: <a href="amazon_women_coats.csv">Download csv file </a></p>
+				<p>Amazon's Men's Coats: <a href="amazon_men_coats.csv">Download csv file </a></p>
+				<p>Walmart Apparel: <a href="walmart_ecommerce_data.csv">Download csv file </a></p>
+				<!-- <p>Amazon's Men's Coats: <a href="Datafiniti_Womens_Shoes1.csv">Download csv file </a></p> -->
+				
+				</td>
+			</tr>
+			
+			
+		</tbody>
+	</table>
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	</HTML>
